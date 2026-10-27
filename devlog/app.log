@@ -1,0 +1,1639 @@
+[13:57:24] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[13:58:14] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[13:58:24] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[13:58:31] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[13:58:58] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[13:59:08] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[13:59:29] RACCOON-REFRESH: Raccoon / 小浣熊 refreshAll 完成: ok=0 fail=0/3
+[14:00:57] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:02:06] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:02:16] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:02:39] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:04:55] GATEWAY: 监听 127.0.0.1:8798
+[14:04:55] SERVICE: 网关已启动 port=8798
+[14:05:06] LOGIN: 主页面: https://xiaohuanxiong.com/authorize?login_source=desktop&appname=Raccoon-Work
+[14:05:08] LOGIN: 页面控件 /authorize | a:登录 / span:登录 / span:R / a:登录并继续 / span:| / a:服务条款 / a:隐私政策
+[14:05:08] LOGIN: 页面控件 /authorize | a:登录 / span:登录 / span:R / a:登录并继续 / span:| / a:服务条款 / a:隐私政策
+[14:05:32] LOGIN: 主页面: https://xiaohuanxiong.com/authorize?lang=zh&login_source=desktop&appname=Raccoon-Work
+[14:05:34] LOGIN: 页面控件 /authorize | button:鬼 / span:鬼 / a:取消 / button:确认授权 / button:不是本人？使用其他账户登录 / span:| / a:服务条款 / a:隐私政策
+[14:05:34] LOGIN: 页面控件 /authorize | button:鬼 / span:鬼 / a:取消 / button:确认授权 / button:不是本人？使用其他账户登录 / span:| / a:服务条款 / a:隐私政策
+[14:07:21] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:08:08] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:08:17] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:08:30] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:08:50] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:08:59] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:09:09] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:09:54] RACCOON-REFRESH: Raccoon / 小浣熊 refreshAll 完成: ok=0 fail=0/3
+[14:10:20] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:10:47] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:11:20] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:11:45] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:11:55] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:12:30] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:12:52] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:13:01] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:13:16] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:13:33] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:13:40] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:13:49] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:14:23] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:15:02] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:15:11] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:15:23] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:15:41] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:15:58] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:16:31] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:16:58] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:17:07] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:17:42] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:18:10] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:18:19] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:18:37] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:19:11] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:19:40] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:19:50] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:20:20] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:20:50] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:21:25] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:22:09] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:22:21] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:22:32] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:22:46] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:23:06] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:23:56] LOGIN: 主页面: https://xiaohuanxiong.com/authorize?login_source=desktop&appname=Raccoon-Work
+[14:23:58] LOGIN: 页面控件 /authorize | a:登录 / span:登录 / span:R / a:登录并继续 / span:| / a:服务条款 / a:隐私政策
+[14:23:58] LOGIN: 页面控件 /authorize | a:登录 / span:登录 / span:R / a:登录并继续 / span:| / a:服务条款 / a:隐私政策
+[14:24:14] LOGIN: 主页面: https://xiaohuanxiong.com/authorize?lang=zh&login_source=desktop&appname=Raccoon-Work
+[14:24:16] LOGIN: 页面控件 /authorize | button:安 / span:安 / a:取消 / button:确认授权 / button:不是本人？使用其他账户登录 / span:| / a:服务条款 / a:隐私政策
+[14:24:16] LOGIN: 页面控件 /authorize | button:安 / span:安 / a:取消 / button:确认授权 / button:不是本人？使用其他账户登录 / span:| / a:服务条款 / a:隐私政策
+[14:27:11] GATEWAY: 监听 127.0.0.1:8798
+[14:27:11] SERVICE: 网关已启动 port=8798
+[14:27:14] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:27:26] CHAT: upstream connect error: Failed to connect to copilot.tencent.com/171.108.209.133:443
+[14:27:27] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:27:55] CHAT: upstream connect error: failed to connect to copilot.tencent.com/171.108.209.133 (port 443) from /192.168.1.69 (port 39128) after 20000ms
+[14:27:57] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:28:01] CHAT: upstream connect error: Failed to connect to copilot.tencent.com/171.108.209.133:443
+[14:28:05] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:28:22] CHAT: upstream connect error: Software caused connection abort
+[14:28:44] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:28:50] RACCOON-REFRESH: Raccoon / 小浣熊 refreshAll 完成: ok=0 fail=0/3
+[14:28:51] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:29:42] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:29:52] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:30:11] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:30:57] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:31:25] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:31:33] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:32:08] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:33:00] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:33:19] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:33:35] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:35:40] GATEWAY: 监听 127.0.0.1:8798
+[14:35:40] SERVICE: 网关已启动 port=8798
+[14:35:50] LOGIN: 主页面: https://xiaohuanxiong.com/authorize?login_source=desktop&appname=Raccoon-Work
+[14:35:52] LOGIN: 页面控件 /authorize | a:登录 / span:登录 / span:R / a:登录并继续 / span:| / a:服务条款 / a:隐私政策
+[14:35:52] LOGIN: 页面控件 /authorize | a:登录 / span:登录 / span:R / a:登录并继续 / span:| / a:服务条款 / a:隐私政策
+[14:36:12] LOGIN: 主页面: https://xiaohuanxiong.com/authorize?lang=zh&login_source=desktop&appname=Raccoon-Work
+[14:36:14] LOGIN: 页面控件 /authorize | button:鬼 / span:鬼 / a:取消 / button:确认授权 / button:不是本人？使用其他账户登录 / span:| / a:服务条款 / a:隐私政策
+[14:36:14] LOGIN: 页面控件 /authorize | button:鬼 / span:鬼 / a:取消 / button:确认授权 / button:不是本人？使用其他账户登录 / span:| / a:服务条款 / a:隐私政策
+[14:38:17] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:39:29] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:39:52] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:40:10] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:40:36] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:40:39] RACCOON-REFRESH: Raccoon / 小浣熊 refreshAll 完成: ok=0 fail=0/3
+[14:40:47] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:41:07] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:41:17] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:42:02] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:43:59] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=301848 realBound=301848 [no-sample]
+[14:43:59] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 449->22 (drop 428) tok ~301848->33186 [3% of window] realBound=301848 target=550000 calib=1.00 sess=1.00
+[14:43:59] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:44:07] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=302023 realBound=302023 [no-sample]
+[14:44:07] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 451->24 (drop 428) tok ~302023->33338 [3% of window] realBound=302023 target=550000 calib=1.00 sess=1.00
+[14:44:07] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:44:59] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=302407 realBound=302407 [no-sample]
+[14:44:59] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 453->26 (drop 428) tok ~302407->33671 [3% of window] realBound=302407 target=550000 calib=1.00 sess=1.00
+[14:44:59] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:45:06] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=303481 realBound=303481 [no-sample]
+[14:45:06] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 455->28 (drop 428) tok ~303481->34605 [3% of window] realBound=303481 target=550000 calib=1.00 sess=1.00
+[14:45:06] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:45:18] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=303755 realBound=303755 [no-sample]
+[14:45:18] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 457->30 (drop 428) tok ~303755->34843 [3% of window] realBound=303755 target=550000 calib=1.00 sess=1.00
+[14:45:18] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:45:39] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=304480 realBound=304480 [no-sample]
+[14:45:39] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 459->32 (drop 428) tok ~304480->35475 [3% of window] realBound=304480 target=550000 calib=1.00 sess=1.00
+[14:45:39] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:47:00] LOGIN: 主页面: https://xiaohuanxiong.com/authorize?login_source=desktop&appname=Raccoon-Work
+[14:47:01] LOGIN: 页面控件 /authorize | a:登录 / span:登录 / span:R / a:登录并继续 / span:| / a:服务条款 / a:隐私政策
+[14:47:01] LOGIN: 页面控件 /authorize | a:登录 / span:登录 / span:R / a:登录并继续 / span:| / a:服务条款 / a:隐私政策
+[14:47:05] LOGIN: onBodyText 命中, len=196 head={"code":"OK","message":"success","request_id":"reqiam-01a13e50-80e3-79fa-8188-2231a575d96b","data":{"verification_id":"v
+[14:47:31] LOGIN: 主页面: https://xiaohuanxiong.com/authorize?lang=zh&login_source=desktop&appname=Raccoon-Work
+[14:47:32] LOGIN: 页面控件 /authorize | button:鬼 / span:鬼 / a:取消 / button:确认授权 / button:不是本人？使用其他账户登录 / span:| / a:服务条款 / a:隐私政策
+[14:47:32] LOGIN: 页面控件 /authorize | button:鬼 / span:鬼 / a:取消 / button:确认授权 / button:不是本人？使用其他账户登录 / span:| / a:服务条款 / a:隐私政策
+[14:47:33] LOGIN: onBodyText 命中, len=148 head={"code":0,"message":"success","data":{"captcha_result":true,"authorization_code":"ac_J-isZYG4HUuVFVLj9yyObC9y5WzGAs0UgQD
+[14:47:33] LOGIN: onCallback 收到: office-raccoon://auth/callback?code=ac_J-isZYG4HUuVFVLj9yyObC9y5WzGAs0UgQDkVyjrpjg
+[14:47:35] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:36] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:47:36] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:37] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:37] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:47:38] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:39] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:39] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:47:39] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:40] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:40] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:47:41] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:41] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:41] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:43] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:43] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:47:43] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:44] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:44] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:47:44] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:45] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:45] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:46] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:47] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:47] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:47:48] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:48] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:47:48] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:49] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:49] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:49] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:51] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:51] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:47:52] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:53] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:53] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:47:53] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:54] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:54] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:54] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:54] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:47:56] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:56] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:47:57] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:57] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:58] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:58] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:47:58] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:59] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:47:59] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:48:00] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:48:00] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:48:02] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:48:02] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:48:02] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:48:03] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:48:03] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:48:03] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:48:04] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:48:05] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:48:05] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:48:06] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:48:06] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:48:07] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:48:07] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:48:08] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:48:09] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:48:09] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:48:10] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:48:10] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:48:10] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:48:11] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:48:12] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:48:12] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:48:13] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:48:31] GATEWAY: 监听 127.0.0.1:8798
+[14:48:31] SERVICE: 网关已启动 port=8798
+[14:49:40] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=309529 realBound=309529 [no-sample]
+[14:49:40] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 461->34 (drop 428) tok ~309529->39864 [3% of window] realBound=309529 target=550000 calib=1.00 sess=1.00
+[14:49:40] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:49:49] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=312698 realBound=312698 [no-sample]
+[14:49:49] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 463->36 (drop 428) tok ~312698->42621 [4% of window] realBound=312698 target=550000 calib=1.00 sess=1.00
+[14:49:49] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:50:10] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=313761 realBound=313761 [no-sample]
+[14:50:10] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 465->38 (drop 428) tok ~313761->43544 [4% of window] realBound=313761 target=550000 calib=1.00 sess=1.00
+[14:50:10] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:50:17] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=315330 realBound=315330 [no-sample]
+[14:50:17] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 467->40 (drop 428) tok ~315330->44909 [4% of window] realBound=315330 target=550000 calib=1.00 sess=1.00
+[14:50:17] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:50:24] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=316566 realBound=316566 [no-sample]
+[14:50:24] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 469->13 (drop 457) tok ~316566->31249 [3% of window] realBound=316566 target=550000 calib=1.00 sess=1.00
+[14:50:24] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:50:30] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=317722 realBound=317722 [no-sample]
+[14:50:30] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 471->14 (drop 458) tok ~317722->31918 [3% of window] realBound=317722 target=550000 calib=1.00 sess=1.00
+[14:50:30] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:51:05] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=319822 realBound=319822 [no-sample]
+[14:51:05] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 473->16 (drop 458) tok ~319822->33744 [3% of window] realBound=319822 target=550000 calib=1.00 sess=1.00
+[14:51:05] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:51:12] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=320367 realBound=320367 [no-sample]
+[14:51:12] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 475->18 (drop 458) tok ~320367->34218 [3% of window] realBound=320367 target=550000 calib=1.00 sess=1.00
+[14:51:12] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:51:36] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=321100 realBound=321100 [no-sample]
+[14:51:36] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 477->20 (drop 458) tok ~321100->34855 [3% of window] realBound=321100 target=550000 calib=1.00 sess=1.00
+[14:51:36] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:51:42] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=321611 realBound=321611 [no-sample]
+[14:51:42] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 479->22 (drop 458) tok ~321611->35299 [3% of window] realBound=321611 target=550000 calib=1.00 sess=1.00
+[14:51:42] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:51:50] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=322848 realBound=322848 [no-sample]
+[14:51:50] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 481->24 (drop 458) tok ~322848->36375 [3% of window] realBound=322848 target=550000 calib=1.00 sess=1.00
+[14:51:50] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:51:53] RACCOON-REFRESH: Raccoon / 小浣熊 refreshAll 完成: ok=0 fail=0/3
+[14:51:57] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=323262 realBound=323262 [no-sample]
+[14:51:57] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 483->26 (drop 458) tok ~323262->36735 [3% of window] realBound=323262 target=550000 calib=1.00 sess=1.00
+[14:51:57] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:52:44] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=324342 realBound=324342 [no-sample]
+[14:52:44] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 485->28 (drop 458) tok ~324342->37673 [3% of window] realBound=324342 target=550000 calib=1.00 sess=1.00
+[14:52:44] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:53:27] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=326402 realBound=326402 [no-sample]
+[14:53:27] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 487->30 (drop 458) tok ~326402->39465 [3% of window] realBound=326402 target=550000 calib=1.00 sess=1.00
+[14:53:27] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:53:52] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=326917 realBound=326917 [no-sample]
+[14:53:52] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 489->32 (drop 458) tok ~326917->39912 [3% of window] realBound=326917 target=550000 calib=1.00 sess=1.00
+[14:53:52] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:54:05] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=327253 realBound=327253 [no-sample]
+[14:54:05] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 491->34 (drop 458) tok ~327253->40204 [4% of window] realBound=327253 target=550000 calib=1.00 sess=1.00
+[14:54:05] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:54:19] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=327642 realBound=327642 [no-sample]
+[14:54:19] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 493->36 (drop 458) tok ~327642->40544 [4% of window] realBound=327642 target=550000 calib=1.00 sess=1.00
+[14:54:19] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:54:32] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=328496 realBound=328496 [no-sample]
+[14:54:32] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 495->38 (drop 458) tok ~328496->41285 [4% of window] realBound=328496 target=550000 calib=1.00 sess=1.00
+[14:54:32] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:54:39] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=328699 realBound=328699 [no-sample]
+[14:54:39] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 497->40 (drop 458) tok ~328699->41463 [4% of window] realBound=328699 target=550000 calib=1.00 sess=1.00
+[14:54:39] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:54:47] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=328864 realBound=328864 [no-sample]
+[14:54:47] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 499->42 (drop 458) tok ~328864->41605 [4% of window] realBound=328864 target=550000 calib=1.00 sess=1.00
+[14:54:47] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:55:32] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=329061 realBound=329061 [no-sample]
+[14:55:32] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 501->43 (drop 459) tok ~329061->37726 [3% of window] realBound=329061 target=550000 calib=1.00 sess=1.00
+[14:55:32] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:55:49] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=329274 realBound=329274 [no-sample]
+[14:55:49] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 503->43 (drop 461) tok ~329274->35155 [3% of window] realBound=329274 target=550000 calib=1.00 sess=1.00
+[14:55:49] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:55:52] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=329615 realBound=329615 [no-sample]
+[14:55:52] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 505->43 (drop 463) tok ~329615->34527 [3% of window] realBound=329615 target=550000 calib=1.00 sess=1.00
+[14:55:52] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:55:55] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=329976 realBound=329976 [no-sample]
+[14:55:55] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 507->43 (drop 465) tok ~329976->33476 [3% of window] realBound=329976 target=550000 calib=1.00 sess=1.00
+[14:55:55] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:56:25] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=330381 realBound=330381 [no-sample]
+[14:56:25] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 509->43 (drop 467) tok ~330381->32754 [3% of window] realBound=330381 target=550000 calib=1.00 sess=1.00
+[14:56:25] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:56:28] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=330632 realBound=330632 [no-sample]
+[14:56:28] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 511->43 (drop 469) tok ~330632->31967 [3% of window] realBound=330632 target=550000 calib=1.00 sess=1.00
+[14:56:28] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:56:32] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=330966 realBound=330966 [no-sample]
+[14:56:32] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 513->43 (drop 471) tok ~330966->30431 [3% of window] realBound=330966 target=550000 calib=1.00 sess=1.00
+[14:56:32] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:56:35] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=331236 realBound=331236 [no-sample]
+[14:56:35] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 515->43 (drop 473) tok ~331236->30191 [3% of window] realBound=331236 target=550000 calib=1.00 sess=1.00
+[14:56:35] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:56:42] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=332229 realBound=332229 [no-sample]
+[14:56:42] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 517->43 (drop 475) tok ~332229->30418 [3% of window] realBound=332229 target=550000 calib=1.00 sess=1.00
+[14:56:42] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:56:45] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=332658 realBound=332658 [no-sample]
+[14:56:45] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 519->43 (drop 477) tok ~332658->30347 [3% of window] realBound=332658 target=550000 calib=1.00 sess=1.00
+[14:56:45] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[14:57:24] GATEWAY: 监听 127.0.0.1:8798
+[14:57:24] SERVICE: 网关已启动 port=8798
+[14:57:35] LOGIN: 主页面: https://xiaohuanxiong.com/authorize?login_source=desktop&appname=Raccoon-Work
+[14:57:37] LOGIN: 页面控件 /authorize | a:登录 / span:登录 / span:R / a:登录并继续 / span:| / a:服务条款 / a:隐私政策
+[14:57:37] LOGIN: 页面控件 /authorize | a:登录 / span:登录 / span:R / a:登录并继续 / span:| / a:服务条款 / a:隐私政策
+[14:57:42] LOGIN: onBodyText 命中, len=196 head={"code":"OK","message":"success","request_id":"reqiam-01a13e5a-356c-7d22-992d-495b06a33f4e","data":{"verification_id":"v
+[14:57:56] LOGIN: 主页面: https://xiaohuanxiong.com/authorize?lang=zh&login_source=desktop&appname=Raccoon-Work
+[14:57:57] LOGIN: 页面控件 /authorize | button:鬼 / span:鬼 / a:取消 / button:确认授权 / button:不是本人？使用其他账户登录 / span:| / a:服务条款 / a:隐私政策
+[14:57:57] LOGIN: 页面控件 /authorize | button:鬼 / span:鬼 / a:取消 / button:确认授权 / button:不是本人？使用其他账户登录 / span:| / a:服务条款 / a:隐私政策
+[14:57:58] LOGIN: onBodyText 命中, len=148 head={"code":0,"message":"success","data":{"captcha_result":true,"authorization_code":"ac_qxw25E0FYw3jztcbFcKb9uHOWjWJCvVeLe4
+[14:57:58] LOGIN: onCallback 收到: office-raccoon://auth/callback?code=ac_qxw25E0FYw3jztcbFcKb9uHOWjWJCvVeLe4xBHWfCVc
+[14:57:59] LOGIN: handleLoginCallback 结果: error: null
+[14:58:00] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:01] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:02] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:02] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:58:03] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:03] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:58:03] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:04] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:05] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:58:05] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:06] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:06] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:06] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:58:06] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:07] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:08] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:58:09] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:09] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:10] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:10] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:58:10] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:10] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:11] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:11] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:12] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:13] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:13] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:58:14] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:15] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:58:15] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:16] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:16] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:16] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:16] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:58:17] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:17] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:18] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:18] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:58:18] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:20] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:20] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:58:21] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:22] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[14:58:22] LOGIN: rt 等待超 20s，兜底只存 access 收工
+[14:58:22] LOGIN: pendingSave 置位(onStorage), rt为空
+[14:58:23] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:00:32] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=341357 realBound=341357 [no-sample]
+[15:00:32] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 521->43 (drop 479) tok ~341357->36835 [3% of window] realBound=341357 target=550000 calib=1.00 sess=1.00
+[15:00:32] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:00:47] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=347229 realBound=347229 [no-sample]
+[15:00:47] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 523->43 (drop 481) tok ~347229->41581 [4% of window] realBound=347229 target=550000 calib=1.00 sess=1.00
+[15:00:47] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:00:53] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=349057 realBound=349057 [no-sample]
+[15:00:53] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 525->43 (drop 483) tok ~349057->42232 [4% of window] realBound=349057 target=550000 calib=1.00 sess=1.00
+[15:00:53] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:01:09] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=349634 realBound=349634 [no-sample]
+[15:01:09] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 527->43 (drop 485) tok ~349634->40943 [4% of window] realBound=349634 target=550000 calib=1.00 sess=1.00
+[15:01:09] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:01:17] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=350494 realBound=350494 [no-sample]
+[15:01:17] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 529->13 (drop 517) tok ~350494->36251 [3% of window] realBound=350494 target=550000 calib=1.00 sess=1.00
+[15:01:17] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:01:37] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=351503 realBound=351503 [no-sample]
+[15:01:37] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 531->14 (drop 518) tok ~351503->36595 [3% of window] realBound=351503 target=550000 calib=1.00 sess=1.00
+[15:01:37] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:01:48] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=351926 realBound=351926 [no-sample]
+[15:01:48] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 533->16 (drop 518) tok ~351926->36963 [3% of window] realBound=351926 target=550000 calib=1.00 sess=1.00
+[15:01:48] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:01:58] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=352335 realBound=352335 [no-sample]
+[15:01:58] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 535->18 (drop 518) tok ~352335->37318 [3% of window] realBound=352335 target=550000 calib=1.00 sess=1.00
+[15:01:58] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:02:08] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=352488 realBound=352488 [no-sample]
+[15:02:08] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 537->20 (drop 518) tok ~352488->37451 [3% of window] realBound=352488 target=550000 calib=1.00 sess=1.00
+[15:02:08] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:02:17] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=352710 realBound=352710 [no-sample]
+[15:02:17] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 539->22 (drop 518) tok ~352710->37645 [3% of window] realBound=352710 target=550000 calib=1.00 sess=1.00
+[15:02:17] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:02:22] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=352969 realBound=352969 [no-sample]
+[15:02:22] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 541->24 (drop 518) tok ~352969->37869 [3% of window] realBound=352969 target=550000 calib=1.00 sess=1.00
+[15:02:22] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:02:23] RACCOON-REFRESH: Raccoon / 小浣熊 refreshAll 完成: ok=0 fail=0/3
+[15:02:34] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=353460 realBound=353460 [no-sample]
+[15:02:34] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 543->26 (drop 518) tok ~353460->38297 [3% of window] realBound=353460 target=550000 calib=1.00 sess=1.00
+[15:02:34] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:02:45] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=353960 realBound=353960 [no-sample]
+[15:02:45] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 545->28 (drop 518) tok ~353960->38731 [3% of window] realBound=353960 target=550000 calib=1.00 sess=1.00
+[15:02:45] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:03:18] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=354222 realBound=354222 [no-sample]
+[15:03:18] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 547->30 (drop 518) tok ~354222->38959 [3% of window] realBound=354222 target=550000 calib=1.00 sess=1.00
+[15:03:18] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:04:04] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=354462 realBound=354462 [no-sample]
+[15:04:04] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 549->32 (drop 518) tok ~354462->39167 [3% of window] realBound=354462 target=550000 calib=1.00 sess=1.00
+[15:04:04] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:04:31] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=354811 realBound=354811 [no-sample]
+[15:04:31] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 551->34 (drop 518) tok ~354811->39471 [3% of window] realBound=354811 target=550000 calib=1.00 sess=1.00
+[15:04:31] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:04:55] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=355413 realBound=355413 [no-sample]
+[15:04:55] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 553->36 (drop 518) tok ~355413->39994 [3% of window] realBound=355413 target=550000 calib=1.00 sess=1.00
+[15:04:55] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:06:06] GATEWAY: 监听 127.0.0.1:8798
+[15:06:06] SERVICE: 网关已启动 port=8798
+[15:06:12] LOGIN: 主页面: https://xiaohuanxiong.com/authorize?login_source=desktop&appname=Raccoon-Work
+[15:06:14] LOGIN: 页面控件 /authorize | a:登录 / span:登录 / span:R / a:登录并继续 / span:| / a:服务条款 / a:隐私政策
+[15:06:14] LOGIN: 页面控件 /login | button:简体中文 / button:手机号登录 / button:微信扫码 / label:手机号 / button:+86 / span:+86 / label:验证码 / button:发送验证码 / button:登录 / button:切换为密码登录 → / span:→ / a:《服务条款》 / a:《隐私政策》 / span:|
+[15:06:18] LOGIN: onBodyText 命中, len=196 head={"code":"OK","message":"success","request_id":"reqiam-01a13e62-1795-7ac5-bde2-cd24282bd962","data":{"verification_id":"v
+[15:06:36] LOGIN: 主页面: https://xiaohuanxiong.com/authorize?lang=zh&login_source=desktop&appname=Raccoon-Work
+[15:06:37] LOGIN: 页面控件 /authorize | button:安 / span:安 / a:取消 / button:确认授权 / button:不是本人？使用其他账户登录 / span:| / a:服务条款 / a:隐私政策
+[15:06:37] LOGIN: 页面控件 /authorize | button:安 / span:安 / a:取消 / button:确认授权 / button:不是本人？使用其他账户登录 / span:| / a:服务条款 / a:隐私政策
+[15:06:39] LOGIN: onBodyText 命中, len=148 head={"code":0,"message":"success","data":{"captcha_result":true,"authorization_code":"ac_7m9SgH-Msg5HV3Jv8Sfe_pmXjsLsghKosVT
+[15:06:39] LOGIN: onCallback 收到: office-raccoon://auth/callback?code=ac_7m9SgH-Msg5HV3Jv8Sfe_pmXjsLsghKosVTkuS_ULZY
+[15:06:39] LOGIN: handleLoginCallback 结果: error: NetworkOnMainThreadException: null @android.os.NetworkOnMainThreadException
+	at android.os.StrictMode$AndroidBlockGuardPolicy.onNetwork(StrictMode.java:1849)
+[15:06:40] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:06:41] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[15:06:41] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:06:42] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:06:43] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[15:06:44] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:06:44] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:06:44] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:06:44] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[15:06:45] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:06:46] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[15:06:46] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:06:46] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:06:47] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:06:48] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:06:48] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[15:06:49] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:06:49] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:06:49] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:06:50] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[15:06:50] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:06:50] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:06:51] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:06:52] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:06:53] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[15:06:53] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:06:54] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:06:54] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:06:54] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[15:06:54] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:06:55] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:06:55] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:06:56] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:06:57] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[15:06:57] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:06:58] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:06:59] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[15:06:59] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:07:00] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:07:01] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:07:01] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[15:07:02] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:07:02] LOGIN: tryFlush: cookieRt=空 bodyRefresh=0
+[15:07:02] LOGIN: rt 等待超 20s，兜底只存 access 收工
+[15:07:02] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:07:03] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:08:47] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=363900 realBound=363900 [no-sample]
+[15:08:47] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 555->38 (drop 518) tok ~363900->47375 [4% of window] realBound=363900 target=550000 calib=1.00 sess=1.00
+[15:08:47] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:09:16] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=364545 realBound=364545 [no-sample]
+[15:09:16] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 557->40 (drop 518) tok ~364545->47935 [4% of window] realBound=364545 target=550000 calib=1.00 sess=1.00
+[15:09:16] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:09:24] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=365423 realBound=365423 [no-sample]
+[15:09:24] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 559->42 (drop 518) tok ~365423->48700 [4% of window] realBound=365423 target=550000 calib=1.00 sess=1.00
+[15:09:24] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:09:45] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=366405 realBound=366405 [no-sample]
+[15:09:45] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 561->43 (drop 519) tok ~366405->42545 [4% of window] realBound=366405 target=550000 calib=1.00 sess=1.00
+[15:09:45] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:09:54] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=367397 realBound=367397 [no-sample]
+[15:09:54] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 563->13 (drop 551) tok ~367397->31185 [3% of window] realBound=367397 target=550000 calib=1.00 sess=1.00
+[15:09:54] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:10:12] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=368104 realBound=368104 [no-sample]
+[15:10:12] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 565->14 (drop 552) tok ~368104->31376 [3% of window] realBound=368104 target=550000 calib=1.00 sess=1.00
+[15:10:12] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:10:25] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=368722 realBound=368722 [no-sample]
+[15:10:25] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 567->16 (drop 552) tok ~368722->31913 [3% of window] realBound=368722 target=550000 calib=1.00 sess=1.00
+[15:10:25] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:10:35] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=369137 realBound=369137 [no-sample]
+[15:10:35] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 569->18 (drop 552) tok ~369137->32274 [3% of window] realBound=369137 target=550000 calib=1.00 sess=1.00
+[15:10:35] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:10:45] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=369507 realBound=369507 [no-sample]
+[15:10:45] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 571->20 (drop 552) tok ~369507->32596 [3% of window] realBound=369507 target=550000 calib=1.00 sess=1.00
+[15:10:45] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:10:54] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=369849 realBound=369849 [no-sample]
+[15:10:54] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 573->22 (drop 552) tok ~369849->32893 [3% of window] realBound=369849 target=550000 calib=1.00 sess=1.00
+[15:10:54] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:11:03] RACCOON-REFRESH: Raccoon / 小浣熊 refreshAll 完成: ok=0 fail=0/3
+[15:11:10] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=370083 realBound=370083 [no-sample]
+[15:11:10] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 575->24 (drop 552) tok ~370083->33096 [3% of window] realBound=370083 target=550000 calib=1.00 sess=1.00
+[15:11:10] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:11:15] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=370238 realBound=370238 [no-sample]
+[15:11:15] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 577->26 (drop 552) tok ~370238->33232 [3% of window] realBound=370238 target=550000 calib=1.00 sess=1.00
+[15:11:15] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:11:52] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=370384 realBound=370384 [no-sample]
+[15:11:52] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 579->28 (drop 552) tok ~370384->33359 [3% of window] realBound=370384 target=550000 calib=1.00 sess=1.00
+[15:11:52] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:12:28] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=370958 realBound=370958 [no-sample]
+[15:12:28] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 581->30 (drop 552) tok ~370958->33858 [3% of window] realBound=370958 target=550000 calib=1.00 sess=1.00
+[15:12:28] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:12:36] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=371732 realBound=371732 [no-sample]
+[15:12:36] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 583->32 (drop 552) tok ~371732->34530 [3% of window] realBound=371732 target=550000 calib=1.00 sess=1.00
+[15:12:36] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:12:45] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=372014 realBound=372014 [no-sample]
+[15:12:45] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 585->34 (drop 552) tok ~372014->34775 [3% of window] realBound=372014 target=550000 calib=1.00 sess=1.00
+[15:12:45] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:12:54] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=372597 realBound=372597 [no-sample]
+[15:12:54] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 587->36 (drop 552) tok ~372597->35282 [3% of window] realBound=372597 target=550000 calib=1.00 sess=1.00
+[15:12:54] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:13:02] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=372944 realBound=372944 [no-sample]
+[15:13:02] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 589->38 (drop 552) tok ~372944->35585 [3% of window] realBound=372944 target=550000 calib=1.00 sess=1.00
+[15:13:02] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:13:31] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=373201 realBound=373201 [no-sample]
+[15:13:31] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 591->40 (drop 552) tok ~373201->35808 [3% of window] realBound=373201 target=550000 calib=1.00 sess=1.00
+[15:13:31] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:13:42] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=373517 realBound=373517 [no-sample]
+[15:13:42] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 593->42 (drop 552) tok ~373517->36083 [3% of window] realBound=373517 target=550000 calib=1.00 sess=1.00
+[15:13:42] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:13:58] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=374136 realBound=374136 [no-sample]
+[15:13:58] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 595->43 (drop 553) tok ~374136->29612 [2% of window] realBound=374136 target=550000 calib=1.00 sess=1.00
+[15:13:58] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:18:32] GATEWAY: 监听 127.0.0.1:8798
+[15:18:32] SERVICE: 网关已启动 port=8798
+[15:18:44] LOGIN: 主页面: https://xiaohuanxiong.com/authorize?login_source=desktop&appname=Raccoon-Work
+[15:18:46] LOGIN: 页面控件 /authorize | a:登录 / span:登录 / span:R / a:登录并继续 / span:| / a:服务条款 / a:隐私政策
+[15:18:46] LOGIN: 页面控件 /authorize | a:登录 / span:登录 / span:R / a:登录并继续 / span:| / a:服务条款 / a:隐私政策
+[15:18:51] LOGIN: onBodyText 命中, len=196 head={"code":"OK","message":"success","request_id":"reqiam-01a13e6d-94ae-75d9-a7e9-1d2d468a1b24","data":{"verification_id":"v
+[15:19:07] LOGIN: 主页面: https://xiaohuanxiong.com/authorize?lang=zh&login_source=desktop&appname=Raccoon-Work
+[15:19:08] LOGIN: 页面控件 /authorize | button:鬼 / span:鬼 / a:取消 / button:确认授权 / button:不是本人？使用其他账户登录 / span:| / a:服务条款 / a:隐私政策
+[15:19:08] LOGIN: 页面控件 /authorize | button:鬼 / span:鬼 / a:取消 / button:确认授权 / button:不是本人？使用其他账户登录 / span:| / a:服务条款 / a:隐私政策
+[15:19:09] LOGIN: onBodyText 命中, len=148 head={"code":0,"message":"success","data":{"captcha_result":true,"authorization_code":"ac_SfzL1tBO8MBNmLT-e4rY4yDWi8b_w318WI2
+[15:19:09] LOGIN: onCallback 收到: office-raccoon://auth/callback?code=ac_SfzL1tBO8MBNmLT-e4rY4yDWi8b_w318WI2Oipl4y7Q
+[15:19:10] LOGIN: handleLoginCallback 结果: ok
+[15:19:10] LOGIN: handleLoginCallback 结果: error: 换取失败 http=400 响应={"code":200035,"message":"authorization_code_not_found_error","details":"authorization code not found"}
+[15:19:16] RACCOON-REFRESH: Raccoon / 小浣熊 failed: 保存的续期凭据其实是 access_token（登录时抓错了），需重新登录一次
+[15:19:19] LOGIN: 主页面: https://xiaohuanxiong.com/authorize?login_source=desktop&appname=Raccoon-Work
+[15:19:20] LOGIN: 页面控件 /authorize | a:登录 / span:登录 / span:R / a:登录并继续 / span:| / a:服务条款 / a:隐私政策
+[15:19:20] LOGIN: 页面控件 /authorize | a:登录 / span:登录 / span:R / a:登录并继续 / span:| / a:服务条款 / a:隐私政策
+[15:19:24] LOGIN: onBodyText 命中, len=196 head={"code":"OK","message":"success","request_id":"reqiam-01a13e6e-1702-73ce-8372-e371df08bf85","data":{"verification_id":"v
+[15:19:33] LOGIN: 主页面: https://xiaohuanxiong.com/authorize?lang=zh&login_source=desktop&appname=Raccoon-Work
+[15:19:34] LOGIN: 页面控件 /authorize | button:安 / span:安 / a:取消 / button:确认授权 / button:不是本人？使用其他账户登录 / span:| / a:服务条款 / a:隐私政策
+[15:19:34] LOGIN: 页面控件 /authorize | button:安 / span:安 / a:取消 / button:确认授权 / button:不是本人？使用其他账户登录 / span:| / a:服务条款 / a:隐私政策
+[15:19:35] LOGIN: onBodyText 命中, len=148 head={"code":0,"message":"success","data":{"captcha_result":true,"authorization_code":"ac_QurfDZw2QEVKisjCX72RFEmoPTdFVLC0vg3
+[15:19:35] LOGIN: onCallback 收到: office-raccoon://auth/callback?code=ac_QurfDZw2QEVKisjCX72RFEmoPTdFVLC0vg3f4WBkeWw
+[15:19:36] LOGIN: handleLoginCallback 结果: ok
+[15:19:36] LOGIN: handleLoginCallback 结果: error: 换取失败 http=400 响应={"code":200035,"message":"authorization_code_not_found_error","details":"authorization code not found"}
+[15:20:58] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=378170 realBound=378170 [no-sample]
+[15:20:58] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 597->43 (drop 555) tok ~378170->32559 [3% of window] realBound=378170 target=550000 calib=1.00 sess=1.00
+[15:20:58] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:21:27] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=380688 realBound=380688 [no-sample]
+[15:21:27] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 599->43 (drop 557) tok ~380688->33984 [3% of window] realBound=380688 target=550000 calib=1.00 sess=1.00
+[15:21:27] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:21:35] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=381544 realBound=381544 [no-sample]
+[15:21:35] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 601->43 (drop 559) tok ~381544->33875 [3% of window] realBound=381544 target=550000 calib=1.00 sess=1.00
+[15:21:35] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:21:58] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=383126 realBound=383126 [no-sample]
+[15:21:58] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 603->43 (drop 561) tok ~383126->34389 [3% of window] realBound=383126 target=550000 calib=1.00 sess=1.00
+[15:21:58] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:22:06] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=383313 realBound=383313 [no-sample]
+[15:22:06] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 605->13 (drop 593) tok ~383313->28691 [2% of window] realBound=383313 target=550000 calib=1.00 sess=1.00
+[15:22:06] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:22:12] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=385461 realBound=385461 [no-sample]
+[15:22:12] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 607->14 (drop 594) tok ~385461->30120 [3% of window] realBound=385461 target=550000 calib=1.00 sess=1.00
+[15:22:12] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:22:36] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=386368 realBound=386368 [no-sample]
+[15:22:36] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 609->16 (drop 594) tok ~386368->30909 [3% of window] realBound=386368 target=550000 calib=1.00 sess=1.00
+[15:22:36] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:23:00] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=387472 realBound=387472 [no-sample]
+[15:23:01] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 611->18 (drop 594) tok ~387472->31869 [3% of window] realBound=387472 target=550000 calib=1.00 sess=1.00
+[15:23:01] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:23:08] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=388714 realBound=388714 [no-sample]
+[15:23:08] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 613->20 (drop 594) tok ~388714->32949 [3% of window] realBound=388714 target=550000 calib=1.00 sess=1.00
+[15:23:08] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:23:16] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=390753 realBound=390753 [no-sample]
+[15:23:16] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 615->22 (drop 594) tok ~390753->34722 [3% of window] realBound=390753 target=550000 calib=1.00 sess=1.00
+[15:23:16] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:23:23] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=392505 realBound=392505 [no-sample]
+[15:23:23] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 617->24 (drop 594) tok ~392505->36245 [3% of window] realBound=392505 target=550000 calib=1.00 sess=1.00
+[15:23:23] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:23:31] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=392734 realBound=392734 [no-sample]
+[15:23:31] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 619->26 (drop 594) tok ~392734->36444 [3% of window] realBound=392734 target=550000 calib=1.00 sess=1.00
+[15:23:31] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:23:31] RACCOON-REFRESH: Raccoon / 小浣熊 failed: 保存的续期凭据其实是 access_token（登录时抓错了），需重新登录一次
+[15:23:31] RACCOON-REFRESH: Raccoon / 小浣熊 refreshAll 完成: ok=0 fail=1/2
+[15:23:40] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=393779 realBound=393779 [no-sample]
+[15:23:40] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 621->28 (drop 594) tok ~393779->37354 [3% of window] realBound=393779 target=550000 calib=1.00 sess=1.00
+[15:23:40] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:24:01] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=395544 realBound=395544 [no-sample]
+[15:24:01] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 623->30 (drop 594) tok ~395544->38888 [3% of window] realBound=395544 target=550000 calib=1.00 sess=1.00
+[15:24:01] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:24:18] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=396428 realBound=396428 [no-sample]
+[15:24:18] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 625->32 (drop 594) tok ~396428->39657 [3% of window] realBound=396428 target=550000 calib=1.00 sess=1.00
+[15:24:18] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:24:22] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=398454 realBound=398454 [no-sample]
+[15:24:22] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 627->34 (drop 594) tok ~398454->41418 [4% of window] realBound=398454 target=550000 calib=1.00 sess=1.00
+[15:24:22] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:24:53] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=401252 realBound=401252 [no-sample]
+[15:24:53] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 629->36 (drop 594) tok ~401252->43851 [4% of window] realBound=401252 target=550000 calib=1.00 sess=1.00
+[15:24:53] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:25:38] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=403236 realBound=403236 [no-sample]
+[15:25:38] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 631->38 (drop 594) tok ~403236->45577 [4% of window] realBound=403236 target=550000 calib=1.00 sess=1.00
+[15:25:38] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:25:45] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=404259 realBound=404259 [no-sample]
+[15:25:45] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 633->40 (drop 594) tok ~404259->46466 [4% of window] realBound=404259 target=550000 calib=1.00 sess=1.00
+[15:25:45] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:25:59] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=404374 realBound=404374 [no-sample]
+[15:25:59] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 635->42 (drop 594) tok ~404374->46566 [4% of window] realBound=404374 target=550000 calib=1.00 sess=1.00
+[15:25:59] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:26:45] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=406270 realBound=406270 [no-sample]
+[15:26:45] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 637->43 (drop 595) tok ~406270->45146 [4% of window] realBound=406270 target=550000 calib=1.00 sess=1.00
+[15:26:45] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:26:51] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=407412 realBound=407412 [no-sample]
+[15:26:51] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 639->43 (drop 597) tok ~407412->43949 [4% of window] realBound=407412 target=550000 calib=1.00 sess=1.00
+[15:26:51] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:26:55] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=408184 realBound=408184 [no-sample]
+[15:26:55] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 641->43 (drop 599) tok ~408184->43876 [4% of window] realBound=408184 target=550000 calib=1.00 sess=1.00
+[15:26:55] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:26:58] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=408555 realBound=408555 [no-sample]
+[15:26:58] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 643->43 (drop 601) tok ~408555->42823 [4% of window] realBound=408555 target=550000 calib=1.00 sess=1.00
+[15:26:58] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:27:03] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=409400 realBound=409400 [no-sample]
+[15:27:03] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 645->43 (drop 603) tok ~409400->43396 [4% of window] realBound=409400 target=550000 calib=1.00 sess=1.00
+[15:27:03] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:27:08] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=410012 realBound=410012 [no-sample]
+[15:27:08] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 647->43 (drop 605) tok ~410012->42059 [4% of window] realBound=410012 target=550000 calib=1.00 sess=1.00
+[15:27:08] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:27:12] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=410536 realBound=410536 [no-sample]
+[15:27:12] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 649->43 (drop 607) tok ~410536->41726 [4% of window] realBound=410536 target=550000 calib=1.00 sess=1.00
+[15:27:12] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:27:18] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=411652 realBound=411652 [no-sample]
+[15:27:18] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 651->43 (drop 609) tok ~411652->41736 [4% of window] realBound=411652 target=550000 calib=1.00 sess=1.00
+[15:27:18] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:27:24] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=412626 realBound=412626 [no-sample]
+[15:27:24] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 653->43 (drop 611) tok ~412626->41504 [4% of window] realBound=412626 target=550000 calib=1.00 sess=1.00
+[15:27:24] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:27:26] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=412853 realBound=412853 [no-sample]
+[15:27:26] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 655->43 (drop 613) tok ~412853->39927 [3% of window] realBound=412853 target=550000 calib=1.00 sess=1.00
+[15:27:26] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:27:32] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=414040 realBound=414040 [no-sample]
+[15:27:32] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 657->43 (drop 615) tok ~414040->39437 [3% of window] realBound=414040 target=550000 calib=1.00 sess=1.00
+[15:27:32] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:27:39] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=415157 realBound=415157 [no-sample]
+[15:27:39] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 659->43 (drop 617) tok ~415157->40210 [4% of window] realBound=415157 target=550000 calib=1.00 sess=1.00
+[15:27:39] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:27:41] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=416647 realBound=416647 [no-sample]
+[15:27:41] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 661->43 (drop 619) tok ~416647->40595 [4% of window] realBound=416647 target=550000 calib=1.00 sess=1.00
+[15:27:41] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:27:48] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=418228 realBound=418228 [no-sample]
+[15:27:48] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 663->43 (drop 621) tok ~418228->40437 [4% of window] realBound=418228 target=550000 calib=1.00 sess=1.00
+[15:27:48] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:27:51] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=418521 realBound=418521 [no-sample]
+[15:27:51] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 665->43 (drop 623) tok ~418521->39922 [3% of window] realBound=418521 target=550000 calib=1.00 sess=1.00
+[15:27:51] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:27:55] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=418747 realBound=418747 [no-sample]
+[15:27:55] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 667->43 (drop 625) tok ~418747->38358 [3% of window] realBound=418747 target=550000 calib=1.00 sess=1.00
+[15:27:55] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:27:58] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=419610 realBound=419610 [no-sample]
+[15:27:58] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 669->43 (drop 627) tok ~419610->36675 [3% of window] realBound=419610 target=550000 calib=1.00 sess=1.00
+[15:27:58] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:28:01] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=421132 realBound=421132 [no-sample]
+[15:28:01] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 671->43 (drop 629) tok ~421132->36271 [3% of window] realBound=421132 target=550000 calib=1.00 sess=1.00
+[15:28:01] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:28:06] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=422132 realBound=422132 [no-sample]
+[15:28:06] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 673->43 (drop 631) tok ~422132->36253 [3% of window] realBound=422132 target=550000 calib=1.00 sess=1.00
+[15:28:06] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:28:08] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=422504 realBound=422504 [no-sample]
+[15:28:08] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 675->43 (drop 633) tok ~422504->36476 [3% of window] realBound=422504 target=550000 calib=1.00 sess=1.00
+[15:28:08] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:28:13] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=423242 realBound=423242 [no-sample]
+[15:28:13] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 677->43 (drop 635) tok ~423242->35469 [3% of window] realBound=423242 target=550000 calib=1.00 sess=1.00
+[15:28:13] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:28:16] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=423740 realBound=423740 [no-sample]
+[15:28:16] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 679->43 (drop 637) tok ~423740->34909 [3% of window] realBound=423740 target=550000 calib=1.00 sess=1.00
+[15:28:16] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:28:19] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=423855 realBound=423855 [no-sample]
+[15:28:19] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 681->43 (drop 639) tok ~423855->34337 [3% of window] realBound=423855 target=550000 calib=1.00 sess=1.00
+[15:28:19] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:28:22] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=424148 realBound=424148 [no-sample]
+[15:28:22] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 683->43 (drop 641) tok ~424148->34269 [3% of window] realBound=424148 target=550000 calib=1.00 sess=1.00
+[15:28:22] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:28:25] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=424438 realBound=424438 [no-sample]
+[15:28:25] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 685->43 (drop 643) tok ~424438->33786 [3% of window] realBound=424438 target=550000 calib=1.00 sess=1.00
+[15:28:25] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:28:28] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=424913 realBound=424913 [no-sample]
+[15:28:28] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 687->43 (drop 645) tok ~424913->33668 [3% of window] realBound=424913 target=550000 calib=1.00 sess=1.00
+[15:28:28] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:28:31] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=425594 realBound=425594 [no-sample]
+[15:28:31] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 689->43 (drop 647) tok ~425594->33805 [3% of window] realBound=425594 target=550000 calib=1.00 sess=1.00
+[15:28:31] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:28:34] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=425883 realBound=425883 [no-sample]
+[15:28:34] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 691->43 (drop 649) tok ~425883->33086 [3% of window] realBound=425883 target=550000 calib=1.00 sess=1.00
+[15:28:34] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:28:38] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=426303 realBound=426303 [no-sample]
+[15:28:38] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 693->43 (drop 651) tok ~426303->32604 [3% of window] realBound=426303 target=550000 calib=1.00 sess=1.00
+[15:28:38] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:29:15] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=426847 realBound=426847 [no-sample]
+[15:29:15] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 695->43 (drop 653) tok ~426847->32880 [3% of window] realBound=426847 target=550000 calib=1.00 sess=1.00
+[15:29:15] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:29:19] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=427178 realBound=427178 [no-sample]
+[15:29:19] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 697->43 (drop 655) tok ~427178->32135 [3% of window] realBound=427178 target=550000 calib=1.00 sess=1.00
+[15:29:19] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:29:44] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=427545 realBound=427545 [no-sample]
+[15:29:44] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 699->43 (drop 657) tok ~427545->31483 [3% of window] realBound=427545 target=550000 calib=1.00 sess=1.00
+[15:29:44] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:29:49] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=428101 realBound=428101 [no-sample]
+[15:29:49] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 701->43 (drop 659) tok ~428101->30671 [3% of window] realBound=428101 target=550000 calib=1.00 sess=1.00
+[15:29:49] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:29:53] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=428463 realBound=428463 [no-sample]
+[15:29:53] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 703->43 (drop 661) tok ~428463->29611 [2% of window] realBound=428463 target=550000 calib=1.00 sess=1.00
+[15:29:53] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:29:57] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=428688 realBound=428688 [no-sample]
+[15:29:57] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 705->43 (drop 663) tok ~428688->29552 [2% of window] realBound=428688 target=550000 calib=1.00 sess=1.00
+[15:29:57] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:30:00] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=429950 realBound=429950 [no-sample]
+[15:30:00] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 707->43 (drop 665) tok ~429950->30452 [3% of window] realBound=429950 target=550000 calib=1.00 sess=1.00
+[15:30:00] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:30:03] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=430841 realBound=430841 [no-sample]
+[15:30:03] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 709->43 (drop 667) tok ~430841->30477 [3% of window] realBound=430841 target=550000 calib=1.00 sess=1.00
+[15:30:03] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:30:07] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=431254 realBound=431254 [no-sample]
+[15:30:07] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 711->43 (drop 669) tok ~431254->29513 [2% of window] realBound=431254 target=550000 calib=1.00 sess=1.00
+[15:30:07] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:30:09] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=432455 realBound=432455 [no-sample]
+[15:30:09] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 713->43 (drop 671) tok ~432455->29687 [2% of window] realBound=432455 target=550000 calib=1.00 sess=1.00
+[15:30:09] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:30:13] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=433488 realBound=433488 [no-sample]
+[15:30:13] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 715->43 (drop 673) tok ~433488->30263 [3% of window] realBound=433488 target=550000 calib=1.00 sess=1.00
+[15:30:13] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:30:16] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=434255 realBound=434255 [no-sample]
+[15:30:16] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 717->43 (drop 675) tok ~434255->30288 [3% of window] realBound=434255 target=550000 calib=1.00 sess=1.00
+[15:30:16] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:30:20] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=434752 realBound=434752 [no-sample]
+[15:30:20] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 719->43 (drop 677) tok ~434752->30287 [3% of window] realBound=434752 target=550000 calib=1.00 sess=1.00
+[15:30:20] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:30:22] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=434929 realBound=434929 [no-sample]
+[15:30:22] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 721->43 (drop 679) tok ~434929->30341 [3% of window] realBound=434929 target=550000 calib=1.00 sess=1.00
+[15:30:22] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:30:25] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=436822 realBound=436822 [no-sample]
+[15:30:25] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 723->43 (drop 681) tok ~436822->31732 [3% of window] realBound=436822 target=550000 calib=1.00 sess=1.00
+[15:30:25] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:30:31] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=437853 realBound=437853 [no-sample]
+[15:30:31] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 725->43 (drop 683) tok ~437853->32376 [3% of window] realBound=437853 target=550000 calib=1.00 sess=1.00
+[15:30:31] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:30:34] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=439690 realBound=439690 [no-sample]
+[15:30:34] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 727->43 (drop 685) tok ~439690->33561 [3% of window] realBound=439690 target=550000 calib=1.00 sess=1.00
+[15:30:34] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:30:38] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=440452 realBound=440452 [no-sample]
+[15:30:38] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 729->43 (drop 687) tok ~440452->33631 [3% of window] realBound=440452 target=550000 calib=1.00 sess=1.00
+[15:30:38] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:30:41] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=441238 realBound=441238 [no-sample]
+[15:30:41] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 731->43 (drop 689) tok ~441238->34063 [3% of window] realBound=441238 target=550000 calib=1.00 sess=1.00
+[15:30:41] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:30:48] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=442522 realBound=442522 [no-sample]
+[15:30:48] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 733->43 (drop 691) tok ~442522->34813 [3% of window] realBound=442522 target=550000 calib=1.00 sess=1.00
+[15:30:48] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:30:53] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=443325 realBound=443325 [no-sample]
+[15:30:53] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 735->43 (drop 693) tok ~443325->35040 [3% of window] realBound=443325 target=550000 calib=1.00 sess=1.00
+[15:30:53] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:31:40] GATEWAY: 监听 127.0.0.1:8798
+[15:31:40] SERVICE: 网关已启动 port=8798
+[15:31:45] LOGIN: 主页面: https://xiaohuanxiong.com/authorize?login_source=desktop&appname=Raccoon-Work
+[15:31:47] LOGIN: 页面控件 /authorize | a:登录 / span:登录 / span:R / a:登录并继续 / span:| / a:服务条款 / a:隐私政策
+[15:31:47] LOGIN: 页面控件 /authorize | a:登录 / span:登录 / span:R / a:登录并继续 / span:| / a:服务条款 / a:隐私政策
+[15:31:51] LOGIN: onBodyText 命中, len=196 head={"code":"OK","message":"success","request_id":"reqiam-01a13e79-7b08-7f2e-a5ac-180eae14b55a","data":{"verification_id":"v
+[15:32:00] LOGIN: 主页面: https://xiaohuanxiong.com/authorize?lang=zh&login_source=desktop&appname=Raccoon-Work
+[15:32:02] LOGIN: 页面控件 /authorize | button:鬼 / span:鬼 / a:取消 / button:确认授权 / button:不是本人？使用其他账户登录 / span:| / a:服务条款 / a:隐私政策
+[15:32:02] LOGIN: 页面控件 /authorize | button:鬼 / span:鬼 / a:取消 / button:确认授权 / button:不是本人？使用其他账户登录 / span:| / a:服务条款 / a:隐私政策
+[15:32:03] LOGIN: onBodyText 命中, len=148 head={"code":0,"message":"success","data":{"captcha_result":true,"authorization_code":"ac_BxNufyfOnXkCmR21NutFI9hgOfIatN769P0
+[15:32:03] LOGIN: onCallback 收到: office-raccoon://auth/callback?code=ac_BxNufyfOnXkCmR21NutFI9hgOfIatN769P0YJu9nn5s
+[15:32:04] LOGIN: handleLoginCallback 结果: ok
+[15:32:04] LOGIN: handleLoginCallback 结果: ok
+[15:32:04] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:32:07] RACCOON-REFRESH: Raccoon / 小浣熊 开始 refresh uid=7387937 acc=9a11f6dd-b2c3-464d-827f-e494437eac5b rt=…fbz9dg
+[15:32:07] RACCOON-REFRESH: Raccoon / 小浣熊 ok uid=7387937 rt_rotated=yes
+[15:32:12] RACCOON-REFRESH: Raccoon / 小浣熊 failed: 保存的续期凭据其实是 access_token（登录时抓错了），需重新登录一次
+[15:32:15] LOGIN: 主页面: https://xiaohuanxiong.com/authorize?login_source=desktop&appname=Raccoon-Work
+[15:32:16] LOGIN: 页面控件 /login | button:简体中文 / button:手机号登录 / button:微信扫码 / label:手机号 / button:+86 / span:+86 / label:验证码 / button:发送验证码 / button:登录 / button:切换为密码登录 → / span:→ / a:《服务条款》 / a:《隐私政策》 / span:|
+[15:32:17] LOGIN: 页面控件 /login | button:简体中文 / button:手机号登录 / button:微信扫码 / label:手机号 / button:+86 / span:+86 / label:验证码 / button:发送验证码 / button:登录 / button:切换为密码登录 → / span:→ / a:《服务条款》 / a:《隐私政策》 / span:|
+[15:32:22] LOGIN: onBodyText 命中, len=196 head={"code":"OK","message":"success","request_id":"reqiam-01a13e79-f650-7bed-b456-834d4dbb85ff","data":{"verification_id":"v
+[15:32:31] LOGIN: 主页面: https://xiaohuanxiong.com/authorize?lang=zh&login_source=desktop&appname=Raccoon-Work
+[15:32:32] LOGIN: 页面控件 /authorize | button:安 / span:安 / a:取消 / button:确认授权 / button:不是本人？使用其他账户登录 / span:| / a:服务条款 / a:隐私政策
+[15:32:32] LOGIN: 页面控件 /authorize | button:安 / span:安 / a:取消 / button:确认授权 / button:不是本人？使用其他账户登录 / span:| / a:服务条款 / a:隐私政策
+[15:32:33] LOGIN: onBodyText 命中, len=148 head={"code":0,"message":"success","data":{"captcha_result":true,"authorization_code":"ac_gSXuSgxlEigv_n793L8T2ipivprbiev5mHT
+[15:32:33] LOGIN: onCallback 收到: office-raccoon://auth/callback?code=ac_gSXuSgxlEigv_n793L8T2ipivprbiev5mHT80cEojOQ
+[15:32:34] LOGIN: handleLoginCallback 结果: ok
+[15:32:34] LOGIN: handleLoginCallback 结果: ok
+[15:32:37] RACCOON-REFRESH: Raccoon / 小浣熊 failed: 保存的续期凭据其实是 access_token（登录时抓错了），需重新登录一次
+[15:32:39] RACCOON-REFRESH: Raccoon / 小浣熊 failed: 保存的续期凭据其实是 access_token（登录时抓错了），需重新登录一次
+[15:32:41] RACCOON-REFRESH: Raccoon / 小浣熊 failed: 保存的续期凭据其实是 access_token（登录时抓错了），需重新登录一次
+[15:32:46] RACCOON-REFRESH: Raccoon / 小浣熊 failed: 保存的续期凭据其实是 access_token（登录时抓错了），需重新登录一次
+[15:34:02] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=444089 realBound=444089 [no-sample]
+[15:34:02] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 737->43 (drop 695) tok ~444089->35416 [3% of window] realBound=444089 target=550000 calib=1.00 sess=1.00
+[15:34:02] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:34:06] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=445918 realBound=445918 [no-sample]
+[15:34:06] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 739->43 (drop 697) tok ~445918->36687 [3% of window] realBound=445918 target=550000 calib=1.00 sess=1.00
+[15:34:06] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:34:09] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=449682 realBound=449682 [no-sample]
+[15:34:09] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 741->43 (drop 699) tok ~449682->39477 [3% of window] realBound=449682 target=550000 calib=1.00 sess=1.00
+[15:34:09] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:34:18] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=452498 realBound=452498 [no-sample]
+[15:34:18] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 743->43 (drop 701) tok ~452498->41611 [4% of window] realBound=452498 target=550000 calib=1.00 sess=1.00
+[15:34:18] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:34:26] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=454056 realBound=454056 [no-sample]
+[15:34:26] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 745->13 (drop 733) tok ~454056->30042 [3% of window] realBound=454056 target=550000 calib=1.00 sess=1.00
+[15:34:26] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:34:29] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=457929 realBound=457929 [no-sample]
+[15:34:29] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 747->14 (drop 734) tok ~457929->32832 [3% of window] realBound=457929 target=550000 calib=1.00 sess=1.00
+[15:34:29] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:34:36] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=459635 realBound=459635 [no-sample]
+[15:34:36] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 749->16 (drop 734) tok ~459635->34314 [3% of window] realBound=459635 target=550000 calib=1.00 sess=1.00
+[15:34:36] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:34:38] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=465075 realBound=465075 [no-sample]
+[15:34:38] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 751->18 (drop 734) tok ~465075->39045 [3% of window] realBound=465075 target=550000 calib=1.00 sess=1.00
+[15:34:38] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:34:52] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=473837 realBound=473837 [no-sample]
+[15:34:52] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 753->20 (drop 734) tok ~473837->46664 [4% of window] realBound=473837 target=550000 calib=1.00 sess=1.00
+[15:34:52] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:35:02] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=476740 realBound=476740 [no-sample]
+[15:35:02] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 755->22 (drop 734) tok ~476740->49188 [4% of window] realBound=476740 target=550000 calib=1.00 sess=1.00
+[15:35:02] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:35:06] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=481619 realBound=481619 [no-sample]
+[15:35:06] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 757->24 (drop 734) tok ~481619->53432 [5% of window] realBound=481619 target=550000 calib=1.00 sess=1.00
+[15:35:06] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:35:19] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=484870 realBound=484870 [no-sample]
+[15:35:19] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 759->26 (drop 734) tok ~484870->56258 [5% of window] realBound=484870 target=550000 calib=1.00 sess=1.00
+[15:35:19] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:35:21] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=486342 realBound=486342 [no-sample]
+[15:35:21] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 761->28 (drop 734) tok ~486342->57538 [5% of window] realBound=486342 target=550000 calib=1.00 sess=1.00
+[15:35:21] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:35:38] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=490079 realBound=490079 [no-sample]
+[15:35:38] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 763->30 (drop 734) tok ~490079->60787 [6% of window] realBound=490079 target=550000 calib=1.00 sess=1.00
+[15:35:38] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:35:52] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=494143 realBound=494143 [no-sample]
+[15:35:52] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 765->32 (drop 734) tok ~494143->64321 [6% of window] realBound=494143 target=550000 calib=1.00 sess=1.00
+[15:35:52] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:36:13] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=499018 realBound=499018 [no-sample]
+[15:36:13] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 767->34 (drop 734) tok ~499018->68560 [6% of window] realBound=499018 target=550000 calib=1.00 sess=1.00
+[15:36:13] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:36:15] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=499918 realBound=499918 [no-sample]
+[15:36:16] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 769->36 (drop 734) tok ~499918->69343 [6% of window] realBound=499918 target=550000 calib=1.00 sess=1.00
+[15:36:16] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:36:37] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=505308 realBound=505308 [no-sample]
+[15:36:37] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 771->38 (drop 734) tok ~505308->74031 [7% of window] realBound=505308 target=550000 calib=1.00 sess=1.00
+[15:36:37] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:36:38] RACCOON-REFRESH: Raccoon / 小浣熊 failed: 保存的续期凭据其实是 access_token（登录时抓错了），需重新登录一次
+[15:36:38] RACCOON-REFRESH: Raccoon / 小浣熊 failed: 保存的续期凭据其实是 access_token（登录时抓错了），需重新登录一次
+[15:36:38] RACCOON-REFRESH: Raccoon / 小浣熊 failed: 保存的续期凭据其实是 access_token（登录时抓错了），需重新登录一次
+[15:36:38] RACCOON-REFRESH: Raccoon / 小浣熊 refreshAll 完成: ok=0 fail=3/3
+[15:36:58] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=511228 realBound=511228 [no-sample]
+[15:36:58] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 773->40 (drop 734) tok ~511228->79178 [7% of window] realBound=511228 target=550000 calib=1.00 sess=1.00
+[15:36:58] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:37:25] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=516776 realBound=516776 [no-sample]
+[15:37:25] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 775->42 (drop 734) tok ~516776->84002 [8% of window] realBound=516776 target=550000 calib=1.00 sess=1.00
+[15:37:25] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:37:37] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=520292 realBound=520292 [no-sample]
+[15:37:37] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 777->43 (drop 735) tok ~520292->86929 [8% of window] realBound=520292 target=550000 calib=1.00 sess=1.00
+[15:37:37] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:38:02] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=525913 realBound=525913 [no-sample]
+[15:38:02] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 779->43 (drop 737) tok ~525913->90227 [9% of window] realBound=525913 target=550000 calib=1.00 sess=1.00
+[15:38:02] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:38:12] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=528527 realBound=528527 [no-sample]
+[15:38:12] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 781->43 (drop 739) tok ~528527->89227 [8% of window] realBound=528527 target=550000 calib=1.00 sess=1.00
+[15:38:12] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:38:17] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=529297 realBound=529297 [no-sample]
+[15:38:17] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 783->43 (drop 741) tok ~529297->87448 [8% of window] realBound=529297 target=550000 calib=1.00 sess=1.00
+[15:38:17] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:38:23] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=529740 realBound=529740 [no-sample]
+[15:38:23] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 785->43 (drop 743) tok ~529740->86478 [8% of window] realBound=529740 target=550000 calib=1.00 sess=1.00
+[15:38:23] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:38:27] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=530004 realBound=530004 [no-sample]
+[15:38:27] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 787->43 (drop 745) tok ~530004->83340 [8% of window] realBound=530004 target=550000 calib=1.00 sess=1.00
+[15:38:27] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:39:06] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=530406 realBound=530406 [no-sample]
+[15:39:06] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 789->43 (drop 747) tok ~530406->82206 [8% of window] realBound=530406 target=550000 calib=1.00 sess=1.00
+[15:39:06] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:39:11] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=530780 realBound=530780 [no-sample]
+[15:39:11] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 791->43 (drop 749) tok ~530780->77800 [7% of window] realBound=530780 target=550000 calib=1.00 sess=1.00
+[15:39:11] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:39:14] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=531220 realBound=531220 [no-sample]
+[15:39:14] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 793->43 (drop 751) tok ~531220->70564 [7% of window] realBound=531220 target=550000 calib=1.00 sess=1.00
+[15:39:14] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:39:19] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=531712 realBound=531712 [no-sample]
+[15:39:19] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 795->43 (drop 753) tok ~531712->68468 [6% of window] realBound=531712 target=550000 calib=1.00 sess=1.00
+[15:39:19] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:39:23] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=532035 realBound=532035 [no-sample]
+[15:39:23] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 797->43 (drop 755) tok ~532035->64505 [6% of window] realBound=532035 target=550000 calib=1.00 sess=1.00
+[15:39:23] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:39:30] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=533318 realBound=533318 [no-sample]
+[15:39:30] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 799->43 (drop 757) tok ~533318->62794 [6% of window] realBound=533318 target=550000 calib=1.00 sess=1.00
+[15:39:30] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:39:36] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=534172 realBound=534172 [no-sample]
+[15:39:36] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 801->43 (drop 759) tok ~534172->62257 [6% of window] realBound=534172 target=550000 calib=1.00 sess=1.00
+[15:39:36] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:40:15] GATEWAY: 监听 127.0.0.1:8798
+[15:40:15] SERVICE: 网关已启动 port=8798
+[15:40:19] RACCOON-REFRESH: Raccoon / 小浣熊 failed: 保存的续期凭据其实是 access_token（登录时抓错了），需重新登录一次
+[15:40:22] RACCOON-REFRESH: Raccoon / 小浣熊 failed: 保存的续期凭据其实是 access_token（登录时抓错了），需重新登录一次
+[15:40:26] LOGIN: 主页面: https://xiaohuanxiong.com/authorize?login_source=desktop&appname=Raccoon-Work
+[15:40:27] LOGIN: 页面控件 /authorize | a:登录 / span:登录 / span:R / a:登录并继续 / span:| / a:服务条款 / a:隐私政策
+[15:40:27] LOGIN: 页面控件 /authorize | a:登录 / span:登录 / span:R / a:登录并继续 / span:| / a:服务条款 / a:隐私政策
+[15:40:32] LOGIN: onBodyText 命中, len=196 head={"code":"OK","message":"success","request_id":"reqiam-01a13e81-6d74-767b-9ca9-78541cfc01f3","data":{"verification_id":"v
+[15:40:40] LOGIN: 主页面: https://xiaohuanxiong.com/authorize?lang=zh&login_source=desktop&appname=Raccoon-Work
+[15:40:41] LOGIN: 页面控件 /authorize | button:鬼 / span:鬼 / a:取消 / button:确认授权 / button:不是本人？使用其他账户登录 / span:| / a:服务条款 / a:隐私政策
+[15:40:42] LOGIN: 页面控件 /authorize | button:鬼 / span:鬼 / a:取消 / button:确认授权 / button:不是本人？使用其他账户登录 / span:| / a:服务条款 / a:隐私政策
+[15:40:43] LOGIN: onBodyText 命中, len=148 head={"code":0,"message":"success","data":{"captcha_result":true,"authorization_code":"ac_XZURT90FIIDG8LwNoHuOEITpbD7Lj6SbSHu
+[15:40:43] LOGIN: onCallback 收到: office-raccoon://auth/callback?code=ac_XZURT90FIIDG8LwNoHuOEITpbD7Lj6SbSHu7a_YO-F0
+[15:40:45] LOGIN: handleLoginCallback 结果: ok
+[15:40:45] LOGIN: handleLoginCallback 结果: ok
+[15:40:45] LOGIN: pendingSave 置位(onStorage), rt为空
+[15:41:30] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=535089 realBound=535089 [no-sample]
+[15:41:30] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 803->43 (drop 761) tok ~535089->59805 [5% of window] realBound=535089 target=550000 calib=1.00 sess=1.00
+[15:41:30] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:41:33] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=537954 realBound=537954 [no-sample]
+[15:41:33] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 805->43 (drop 763) tok ~537954->58763 [5% of window] realBound=537954 target=550000 calib=1.00 sess=1.00
+[15:41:33] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:41:39] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=540365 realBound=540365 [no-sample]
+[15:41:39] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 807->43 (drop 765) tok ~540365->56621 [5% of window] realBound=540365 target=550000 calib=1.00 sess=1.00
+[15:41:39] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:41:44] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=542706 realBound=542706 [no-sample]
+[15:41:44] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 809->43 (drop 767) tok ~542706->57873 [5% of window] realBound=542706 target=550000 calib=1.00 sess=1.00
+[15:41:44] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:41:49] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=545026 realBound=545026 [no-sample]
+[15:41:49] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 811->13 (drop 799) tok ~545026->30104 [3% of window] realBound=545026 target=550000 calib=1.00 sess=1.00
+[15:41:49] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:41:52] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=547854 realBound=547854 [no-sample]
+[15:41:52] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 813->14 (drop 800) tok ~547854->31841 [3% of window] realBound=547854 target=550000 calib=1.00 sess=1.00
+[15:41:52] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:41:59] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=549013 realBound=549013 [no-sample]
+[15:41:59] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 815->16 (drop 800) tok ~549013->32849 [3% of window] realBound=549013 target=550000 calib=1.00 sess=1.00
+[15:41:59] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:42:03] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=550454 realBound=550454 [no-sample]
+[15:42:03] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 817->18 (drop 800) tok ~550454->34101 [3% of window] realBound=550454 target=550000 calib=1.00 sess=1.00
+[15:42:03] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:42:07] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=552433 realBound=552433 [no-sample]
+[15:42:07] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 819->20 (drop 800) tok ~552433->35823 [3% of window] realBound=552433 target=550000 calib=1.00 sess=1.00
+[15:42:07] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:42:23] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=561172 realBound=561172 [no-sample]
+[15:42:23] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 821->22 (drop 800) tok ~561172->43422 [4% of window] realBound=561172 target=550000 calib=1.00 sess=1.00
+[15:42:23] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:42:33] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=565248 realBound=565248 [no-sample]
+[15:42:33] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 823->24 (drop 800) tok ~565248->46966 [4% of window] realBound=565248 target=550000 calib=1.00 sess=1.00
+[15:42:33] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:42:36] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=567790 realBound=567790 [no-sample]
+[15:42:36] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 825->26 (drop 800) tok ~567790->49177 [4% of window] realBound=567790 target=550000 calib=1.00 sess=1.00
+[15:42:36] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:42:49] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=571150 realBound=571150 [no-sample]
+[15:42:49] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 827->28 (drop 800) tok ~571150->52099 [5% of window] realBound=571150 target=550000 calib=1.00 sess=1.00
+[15:42:49] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:42:59] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=572813 realBound=572813 [no-sample]
+[15:42:59] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 829->30 (drop 800) tok ~572813->53544 [5% of window] realBound=572813 target=550000 calib=1.00 sess=1.00
+[15:42:59] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:43:13] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=576582 realBound=576582 [no-sample]
+[15:43:13] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 831->32 (drop 800) tok ~576582->56822 [5% of window] realBound=576582 target=550000 calib=1.00 sess=1.00
+[15:43:13] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:43:21] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=580930 realBound=580930 [no-sample]
+[15:43:21] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 833->34 (drop 800) tok ~580930->60603 [6% of window] realBound=580930 target=550000 calib=1.00 sess=1.00
+[15:43:21] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:43:43] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=586070 realBound=586070 [no-sample]
+[15:43:43] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 835->36 (drop 800) tok ~586070->65073 [6% of window] realBound=586070 target=550000 calib=1.00 sess=1.00
+[15:43:43] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:44:09] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=592965 realBound=592965 [no-sample]
+[15:44:09] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 837->38 (drop 800) tok ~592965->71068 [7% of window] realBound=592965 target=550000 calib=1.00 sess=1.00
+[15:44:09] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:44:22] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=598597 realBound=598597 [no-sample]
+[15:44:22] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 839->40 (drop 800) tok ~598597->75966 [7% of window] realBound=598597 target=550000 calib=1.00 sess=1.00
+[15:44:22] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:44:38] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=605135 realBound=605135 [no-sample]
+[15:44:38] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 841->42 (drop 800) tok ~605135->81650 [8% of window] realBound=605135 target=550000 calib=1.00 sess=1.00
+[15:44:38] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:45:01] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=610015 realBound=610015 [no-sample]
+[15:45:01] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 843->43 (drop 801) tok ~610015->85811 [8% of window] realBound=610015 target=550000 calib=1.00 sess=1.00
+[15:45:01] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:45:04] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=610905 realBound=610905 [no-sample]
+[15:45:04] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 845->43 (drop 803) tok ~610905->84093 [8% of window] realBound=610905 target=550000 calib=1.00 sess=1.00
+[15:45:04] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:45:11] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=612941 realBound=612941 [no-sample]
+[15:45:11] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 847->43 (drop 805) tok ~612941->83768 [8% of window] realBound=612941 target=550000 calib=1.00 sess=1.00
+[15:45:11] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:45:14] RACCOON-REFRESH: Raccoon / 小浣熊 failed: 保存的续期凭据其实是 access_token（登录时抓错了），需重新登录一次
+[15:45:14] RACCOON-REFRESH: Raccoon / 小浣熊 refreshAll 完成: ok=0 fail=1/2
+[15:45:15] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=614431 realBound=614431 [no-sample]
+[15:45:15] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 849->43 (drop 807) tok ~614431->83027 [8% of window] realBound=614431 target=550000 calib=1.00 sess=1.00
+[15:45:15] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:45:37] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=619612 realBound=619612 [no-sample]
+[15:45:37] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 851->43 (drop 809) tok ~619612->85516 [8% of window] realBound=619612 target=550000 calib=1.00 sess=1.00
+[15:45:37] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:45:42] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=620297 realBound=620297 [no-sample]
+[15:45:42] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 853->43 (drop 811) tok ~620297->83653 [8% of window] realBound=620297 target=550000 calib=1.00 sess=1.00
+[15:45:42] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:45:44] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=622429 realBound=622429 [no-sample]
+[15:45:44] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 855->43 (drop 813) tok ~622429->84498 [8% of window] realBound=622429 target=550000 calib=1.00 sess=1.00
+[15:45:44] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:46:02] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=625950 realBound=625950 [no-sample]
+[15:46:02] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 857->43 (drop 815) tok ~625950->86307 [8% of window] realBound=625950 target=550000 calib=1.00 sess=1.00
+[15:46:02] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:46:05] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=626087 realBound=626087 [no-sample]
+[15:46:05] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 859->43 (drop 817) tok ~626087->84705 [8% of window] realBound=626087 target=550000 calib=1.00 sess=1.00
+[15:46:05] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:46:09] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=626704 realBound=626704 [no-sample]
+[15:46:09] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 861->43 (drop 819) tok ~626704->77643 [7% of window] realBound=626704 target=550000 calib=1.00 sess=1.00
+[15:46:09] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:46:16] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=626925 realBound=626925 [no-sample]
+[15:46:16] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 863->43 (drop 821) tok ~626925->74290 [7% of window] realBound=626925 target=550000 calib=1.00 sess=1.00
+[15:46:16] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:46:21] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=630104 realBound=630104 [no-sample]
+[15:46:21] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 865->43 (drop 823) tok ~630104->74844 [7% of window] realBound=630104 target=550000 calib=1.00 sess=1.00
+[15:46:21] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:46:26] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=633486 realBound=633486 [no-sample]
+[15:46:26] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 867->43 (drop 825) tok ~633486->74863 [7% of window] realBound=633486 target=550000 calib=1.00 sess=1.00
+[15:46:26] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:46:30] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=634012 realBound=634012 [no-sample]
+[15:46:30] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 869->43 (drop 827) tok ~634012->73874 [7% of window] realBound=634012 target=550000 calib=1.00 sess=1.00
+[15:46:30] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:46:36] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=637145 realBound=637145 [no-sample]
+[15:46:36] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 871->43 (drop 829) tok ~637145->73322 [7% of window] realBound=637145 target=550000 calib=1.00 sess=1.00
+[15:46:36] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:46:46] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=640132 realBound=640132 [no-sample]
+[15:46:46] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 873->43 (drop 831) tok ~640132->72138 [7% of window] realBound=640132 target=550000 calib=1.00 sess=1.00
+[15:46:46] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:46:50] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=646318 realBound=646318 [no-sample]
+[15:46:50] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 875->43 (drop 833) tok ~646318->73046 [7% of window] realBound=646318 target=550000 calib=1.00 sess=1.00
+[15:46:50] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:46:53] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=650250 realBound=650250 [no-sample]
+[15:46:54] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 877->43 (drop 835) tok ~650250->70470 [7% of window] realBound=650250 target=550000 calib=1.00 sess=1.00
+[15:46:54] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:47:01] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=655567 realBound=655567 [no-sample]
+[15:47:01] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 879->43 (drop 837) tok ~655567->70196 [7% of window] realBound=655567 target=550000 calib=1.00 sess=1.00
+[15:47:01] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:47:15] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=658617 realBound=658617 [no-sample]
+[15:47:15] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 881->43 (drop 839) tok ~658617->67164 [6% of window] realBound=658617 target=550000 calib=1.00 sess=1.00
+[15:47:15] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:47:26] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=660376 realBound=660376 [no-sample]
+[15:47:26] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 883->43 (drop 841) tok ~660376->64451 [6% of window] realBound=660376 target=550000 calib=1.00 sess=1.00
+[15:47:26] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:47:30] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=662828 realBound=662828 [no-sample]
+[15:47:30] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 885->43 (drop 843) tok ~662828->65809 [6% of window] realBound=662828 target=550000 calib=1.00 sess=1.00
+[15:47:30] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:47:34] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=665433 realBound=665433 [no-sample]
+[15:47:34] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 887->43 (drop 845) tok ~665433->66303 [6% of window] realBound=665433 target=550000 calib=1.00 sess=1.00
+[15:47:34] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:47:40] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=666394 realBound=666394 [no-sample]
+[15:47:40] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 889->43 (drop 847) tok ~666394->65844 [6% of window] realBound=666394 target=550000 calib=1.00 sess=1.00
+[15:47:40] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:47:44] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=670640 realBound=670640 [no-sample]
+[15:47:44] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 891->43 (drop 849) tok ~670640->65031 [6% of window] realBound=670640 target=550000 calib=1.00 sess=1.00
+[15:47:44] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:47:48] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=671372 realBound=671372 [no-sample]
+[15:47:48] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 893->43 (drop 851) tok ~671372->65071 [6% of window] realBound=671372 target=550000 calib=1.00 sess=1.00
+[15:47:48] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:48:03] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=676033 realBound=676033 [no-sample]
+[15:48:03] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 895->43 (drop 853) tok ~676033->67270 [6% of window] realBound=676033 target=550000 calib=1.00 sess=1.00
+[15:48:03] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:48:18] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=678821 realBound=678821 [no-sample]
+[15:48:18] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 897->43 (drop 855) tok ~678821->66634 [6% of window] realBound=678821 target=550000 calib=1.00 sess=1.00
+[15:48:18] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:48:22] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=679101 realBound=679101 [no-sample]
+[15:48:22] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 899->43 (drop 857) tok ~679101->66757 [6% of window] realBound=679101 target=550000 calib=1.00 sess=1.00
+[15:48:22] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:48:25] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=680721 realBound=680721 [no-sample]
+[15:48:25] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 901->43 (drop 859) tok ~680721->67629 [6% of window] realBound=680721 target=550000 calib=1.00 sess=1.00
+[15:48:25] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:48:31] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=681198 realBound=681198 [no-sample]
+[15:48:31] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 903->43 (drop 861) tok ~681198->67852 [6% of window] realBound=681198 target=550000 calib=1.00 sess=1.00
+[15:48:31] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:48:34] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=682678 realBound=682678 [no-sample]
+[15:48:34] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 905->43 (drop 863) tok ~682678->66375 [6% of window] realBound=682678 target=550000 calib=1.00 sess=1.00
+[15:48:34] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:48:39] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=685688 realBound=685688 [no-sample]
+[15:48:39] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 907->43 (drop 865) tok ~685688->66051 [6% of window] realBound=685688 target=550000 calib=1.00 sess=1.00
+[15:48:39] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:48:42] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=687397 realBound=687397 [no-sample]
+[15:48:42] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 909->43 (drop 867) tok ~687397->67080 [6% of window] realBound=687397 target=550000 calib=1.00 sess=1.00
+[15:48:42] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:48:57] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=690845 realBound=690845 [no-sample]
+[15:48:57] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 911->43 (drop 869) tok ~690845->67353 [6% of window] realBound=690845 target=550000 calib=1.00 sess=1.00
+[15:48:57] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:49:09] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=695361 realBound=695361 [no-sample]
+[15:49:09] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 913->43 (drop 871) tok ~695361->68683 [6% of window] realBound=695361 target=550000 calib=1.00 sess=1.00
+[15:49:09] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:49:22] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=698782 realBound=698782 [no-sample]
+[15:49:22] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 915->43 (drop 873) tok ~698782->66280 [6% of window] realBound=698782 target=550000 calib=1.00 sess=1.00
+[15:49:22] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:49:30] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=701962 realBound=701962 [no-sample]
+[15:49:30] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 917->43 (drop 875) tok ~701962->65625 [6% of window] realBound=701962 target=550000 calib=1.00 sess=1.00
+[15:49:30] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:49:38] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=704024 realBound=704024 [no-sample]
+[15:49:38] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 919->43 (drop 877) tok ~704024->62794 [6% of window] realBound=704024 target=550000 calib=1.00 sess=1.00
+[15:49:38] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:49:43] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=706687 realBound=706687 [no-sample]
+[15:49:43] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 921->43 (drop 879) tok ~706687->62458 [6% of window] realBound=706687 target=550000 calib=1.00 sess=1.00
+[15:49:43] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:49:53] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=708325 realBound=708325 [no-sample]
+[15:49:53] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 923->43 (drop 881) tok ~708325->62351 [6% of window] realBound=708325 target=550000 calib=1.00 sess=1.00
+[15:49:53] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:50:00] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=712137 realBound=712137 [no-sample]
+[15:50:00] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 925->43 (drop 883) tok ~712137->63535 [6% of window] realBound=712137 target=550000 calib=1.00 sess=1.00
+[15:50:00] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:50:13] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=716499 realBound=716499 [no-sample]
+[15:50:13] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 927->43 (drop 885) tok ~716499->65063 [6% of window] realBound=716499 target=550000 calib=1.00 sess=1.00
+[15:50:13] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:50:21] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=717574 realBound=717574 [no-sample]
+[15:50:21] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 929->43 (drop 887) tok ~717574->65162 [6% of window] realBound=717574 target=550000 calib=1.00 sess=1.00
+[15:50:21] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:51:19] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=719386 realBound=719386 [no-sample]
+[15:51:19] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 932->42 (drop 891) tok ~719386->62410 [6% of window] realBound=719386 target=550000 calib=1.00 sess=1.00
+[15:51:19] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:51:37] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=725158 realBound=725158 [no-sample]
+[15:51:37] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 934->42 (drop 893) tok ~725158->63376 [6% of window] realBound=725158 target=550000 calib=1.00 sess=1.00
+[15:51:37] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:58:40] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=727717 realBound=727717 [no-sample]
+[15:58:40] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 937->43 (drop 895) tok ~727717->63176 [6% of window] realBound=727717 target=550000 calib=1.00 sess=1.00
+[15:58:40] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:58:46] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=728788 realBound=728788 [no-sample]
+[15:58:46] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 939->43 (drop 897) tok ~728788->63863 [6% of window] realBound=728788 target=550000 calib=1.00 sess=1.00
+[15:58:46] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:58:49] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=729707 realBound=729707 [no-sample]
+[15:58:49] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 941->13 (drop 929) tok ~729707->30262 [3% of window] realBound=729707 target=550000 calib=1.00 sess=1.00
+[15:58:49] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:58:52] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=731672 realBound=731672 [no-sample]
+[15:58:52] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 943->15 (drop 929) tok ~731672->31970 [3% of window] realBound=731672 target=550000 calib=1.00 sess=1.00
+[15:58:52] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:58:55] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=734538 realBound=734538 [no-sample]
+[15:58:55] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 945->17 (drop 929) tok ~734538->34463 [3% of window] realBound=734538 target=550000 calib=1.00 sess=1.00
+[15:58:55] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:58:59] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=735201 realBound=735201 [no-sample]
+[15:59:00] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 947->14 (drop 934) tok ~735201->27212 [2% of window] realBound=735201 target=550000 calib=1.00 sess=1.00
+[15:59:00] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:59:03] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=737446 realBound=737446 [no-sample]
+[15:59:03] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 949->16 (drop 934) tok ~737446->29163 [2% of window] realBound=737446 target=550000 calib=1.00 sess=1.00
+[15:59:03] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:59:25] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=738604 realBound=738604 [no-sample]
+[15:59:25] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 952->19 (drop 934) tok ~738604->30171 [3% of window] realBound=738604 target=550000 calib=1.00 sess=1.00
+[15:59:25] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:59:30] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=739886 realBound=739886 [no-sample]
+[15:59:30] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 954->21 (drop 934) tok ~739886->31286 [3% of window] realBound=739886 target=550000 calib=1.00 sess=1.00
+[15:59:30] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:59:33] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=741938 realBound=741938 [no-sample]
+[15:59:33] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 956->23 (drop 934) tok ~741938->33070 [3% of window] realBound=741938 target=550000 calib=1.00 sess=1.00
+[15:59:33] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:59:40] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=744847 realBound=744847 [no-sample]
+[15:59:40] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 958->25 (drop 934) tok ~744847->35600 [3% of window] realBound=744847 target=550000 calib=1.00 sess=1.00
+[15:59:40] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:59:48] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=747733 realBound=747733 [no-sample]
+[15:59:48] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 960->27 (drop 934) tok ~747733->38109 [3% of window] realBound=747733 target=550000 calib=1.00 sess=1.00
+[15:59:48] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[15:59:55] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=750137 realBound=750137 [no-sample]
+[15:59:55] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 962->14 (drop 949) tok ~750137->31291 [3% of window] realBound=750137 target=550000 calib=1.00 sess=1.00
+[15:59:55] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:00:02] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=752282 realBound=752282 [no-sample]
+[16:00:02] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 964->16 (drop 949) tok ~752282->33156 [3% of window] realBound=752282 target=550000 calib=1.00 sess=1.00
+[16:00:02] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:00:07] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=754249 realBound=754249 [no-sample]
+[16:00:07] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 966->18 (drop 949) tok ~754249->34866 [3% of window] realBound=754249 target=550000 calib=1.00 sess=1.00
+[16:00:07] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:00:13] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=758493 realBound=758493 [no-sample]
+[16:00:13] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 968->20 (drop 949) tok ~758493->38557 [3% of window] realBound=758493 target=550000 calib=1.00 sess=1.00
+[16:00:13] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:00:27] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=763805 realBound=763805 [no-sample]
+[16:00:27] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 970->22 (drop 949) tok ~763805->43176 [4% of window] realBound=763805 target=550000 calib=1.00 sess=1.00
+[16:00:27] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:00:45] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=767253 realBound=767253 [no-sample]
+[16:00:45] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 972->24 (drop 949) tok ~767253->46174 [4% of window] realBound=767253 target=550000 calib=1.00 sess=1.00
+[16:00:45] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:00:52] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=773282 realBound=773282 [no-sample]
+[16:00:52] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 974->26 (drop 949) tok ~773282->51417 [5% of window] realBound=773282 target=550000 calib=1.00 sess=1.00
+[16:00:52] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:00:56] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=773677 realBound=773677 [no-sample]
+[16:00:56] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 976->28 (drop 949) tok ~773677->51760 [5% of window] realBound=773677 target=550000 calib=1.00 sess=1.00
+[16:00:56] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:01:00] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=773968 realBound=773968 [no-sample]
+[16:01:00] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 978->30 (drop 949) tok ~773968->52013 [5% of window] realBound=773968 target=550000 calib=1.00 sess=1.00
+[16:01:00] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:01:04] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=774190 realBound=774190 [no-sample]
+[16:01:04] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 980->32 (drop 949) tok ~774190->52206 [5% of window] realBound=774190 target=550000 calib=1.00 sess=1.00
+[16:01:04] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:01:22] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=774596 realBound=774596 [no-sample]
+[16:01:22] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 982->34 (drop 949) tok ~774596->52559 [5% of window] realBound=774596 target=550000 calib=1.00 sess=1.00
+[16:01:22] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:02:09] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=775167 realBound=775167 [no-sample]
+[16:02:09] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 984->36 (drop 949) tok ~775167->53056 [5% of window] realBound=775167 target=550000 calib=1.00 sess=1.00
+[16:02:09] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:02:12] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=781641 realBound=781641 [no-sample]
+[16:02:12] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 986->38 (drop 949) tok ~781641->58685 [5% of window] realBound=781641 target=550000 calib=1.00 sess=1.00
+[16:02:12] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:02:30] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=787300 realBound=787300 [no-sample]
+[16:02:30] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 988->40 (drop 949) tok ~787300->63606 [6% of window] realBound=787300 target=550000 calib=1.00 sess=1.00
+[16:02:30] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:02:46] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=790437 realBound=790437 [no-sample]
+[16:02:46] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 990->42 (drop 949) tok ~790437->66334 [6% of window] realBound=790437 target=550000 calib=1.00 sess=1.00
+[16:02:46] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:03:07] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=794518 realBound=794518 [no-sample]
+[16:03:07] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 992->43 (drop 950) tok ~794518->69279 [6% of window] realBound=794518 target=550000 calib=1.00 sess=1.00
+[16:03:07] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:03:10] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=794900 realBound=794900 [no-sample]
+[16:03:10] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 994->43 (drop 952) tok ~794900->68496 [6% of window] realBound=794900 target=550000 calib=1.00 sess=1.00
+[16:03:10] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:03:19] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=796387 realBound=796387 [no-sample]
+[16:03:19] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 996->43 (drop 954) tok ~796387->68005 [6% of window] realBound=796387 target=550000 calib=1.00 sess=1.00
+[16:03:19] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:03:22] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=798618 realBound=798618 [no-sample]
+[16:03:22] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 998->43 (drop 956) tok ~798618->67415 [6% of window] realBound=798618 target=550000 calib=1.00 sess=1.00
+[16:03:22] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:03:31] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=801475 realBound=801475 [no-sample]
+[16:03:31] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1000->43 (drop 958) tok ~801475->67389 [6% of window] realBound=801475 target=550000 calib=1.00 sess=1.00
+[16:03:31] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:03:38] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=804406 realBound=804406 [no-sample]
+[16:03:38] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1002->43 (drop 960) tok ~804406->67848 [6% of window] realBound=804406 target=550000 calib=1.00 sess=1.00
+[16:03:38] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:03:49] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=806774 realBound=806774 [no-sample]
+[16:03:49] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1004->43 (drop 962) tok ~806774->68041 [6% of window] realBound=806774 target=550000 calib=1.00 sess=1.00
+[16:03:49] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:03:52] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=809203 realBound=809203 [no-sample]
+[16:03:52] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1006->43 (drop 964) tok ~809203->68444 [6% of window] realBound=809203 target=550000 calib=1.00 sess=1.00
+[16:03:52] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:04:06] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=813338 realBound=813338 [no-sample]
+[16:04:06] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1008->43 (drop 966) tok ~813338->68350 [6% of window] realBound=813338 target=550000 calib=1.00 sess=1.00
+[16:04:06] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:04:27] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=817392 realBound=817392 [no-sample]
+[16:04:27] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1010->43 (drop 968) tok ~817392->67255 [6% of window] realBound=817392 target=550000 calib=1.00 sess=1.00
+[16:04:27] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:04:30] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=818326 realBound=818326 [no-sample]
+[16:04:30] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1012->43 (drop 970) tok ~818326->65069 [6% of window] realBound=818326 target=550000 calib=1.00 sess=1.00
+[16:04:30] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:04:35] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=819035 realBound=819035 [no-sample]
+[16:04:35] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1014->43 (drop 972) tok ~819035->60442 [6% of window] realBound=819035 target=550000 calib=1.00 sess=1.00
+[16:04:35] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:04:38] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=821801 realBound=821801 [no-sample]
+[16:04:38] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1016->43 (drop 974) tok ~821801->62505 [6% of window] realBound=821801 target=550000 calib=1.00 sess=1.00
+[16:04:38] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:04:49] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=823538 realBound=823538 [no-sample]
+[16:04:49] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1018->43 (drop 976) tok ~823538->63763 [6% of window] realBound=823538 target=550000 calib=1.00 sess=1.00
+[16:04:49] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:04:58] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=825128 realBound=825128 [no-sample]
+[16:04:59] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1020->43 (drop 978) tok ~825128->64951 [6% of window] realBound=825128 target=550000 calib=1.00 sess=1.00
+[16:04:59] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:05:11] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=838354 realBound=838354 [no-sample]
+[16:05:11] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1022->43 (drop 980) tok ~838354->76099 [7% of window] realBound=838354 target=550000 calib=1.00 sess=1.00
+[16:05:11] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:05:36] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=844489 realBound=844489 [no-sample]
+[16:05:36] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1024->43 (drop 982) tok ~844489->80937 [8% of window] realBound=844489 target=550000 calib=1.00 sess=1.00
+[16:05:36] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:05:44] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=846885 realBound=846885 [no-sample]
+[16:05:44] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1026->43 (drop 984) tok ~846885->77392 [7% of window] realBound=846885 target=550000 calib=1.00 sess=1.00
+[16:05:44] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:05:51] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=851447 realBound=851447 [no-sample]
+[16:05:51] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1028->43 (drop 986) tok ~851447->76438 [7% of window] realBound=851447 target=550000 calib=1.00 sess=1.00
+[16:05:51] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:05:58] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=854079 realBound=854079 [no-sample]
+[16:05:58] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1030->43 (drop 988) tok ~854079->75999 [7% of window] realBound=854079 target=550000 calib=1.00 sess=1.00
+[16:05:58] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:06:03] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=861720 realBound=861720 [no-sample]
+[16:06:03] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1032->43 (drop 990) tok ~861720->79094 [7% of window] realBound=861720 target=550000 calib=1.00 sess=1.00
+[16:06:03] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:06:19] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=866335 realBound=866335 [no-sample]
+[16:06:19] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1034->43 (drop 992) tok ~866335->82775 [8% of window] realBound=866335 target=550000 calib=1.00 sess=1.00
+[16:06:19] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:06:40] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=870918 realBound=870918 [no-sample]
+[16:06:40] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1036->43 (drop 994) tok ~870918->85468 [8% of window] realBound=870918 target=550000 calib=1.00 sess=1.00
+[16:06:40] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:06:45] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=873423 realBound=873423 [no-sample]
+[16:06:45] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1038->43 (drop 996) tok ~873423->85707 [8% of window] realBound=873423 target=550000 calib=1.00 sess=1.00
+[16:06:45] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:06:54] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=876675 realBound=876675 [no-sample]
+[16:06:55] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1040->43 (drop 998) tok ~876675->86050 [8% of window] realBound=876675 target=550000 calib=1.00 sess=1.00
+[16:06:55] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:07:06] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=878922 realBound=878922 [no-sample]
+[16:07:06] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1042->43 (drop 1000) tok ~878922->85456 [8% of window] realBound=878922 target=550000 calib=1.00 sess=1.00
+[16:07:06] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:07:11] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=879465 realBound=879465 [no-sample]
+[16:07:11] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1044->43 (drop 1002) tok ~879465->83869 [8% of window] realBound=879465 target=550000 calib=1.00 sess=1.00
+[16:07:11] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:07:27] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=886040 realBound=886040 [no-sample]
+[16:07:27] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1046->43 (drop 1004) tok ~886040->87474 [8% of window] realBound=886040 target=550000 calib=1.00 sess=1.00
+[16:07:27] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:07:32] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=890381 realBound=890381 [no-sample]
+[16:07:32] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1048->43 (drop 1006) tok ~890381->87652 [8% of window] realBound=890381 target=550000 calib=1.00 sess=1.00
+[16:07:32] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:07:40] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=893208 realBound=893208 [no-sample]
+[16:07:40] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1050->43 (drop 1008) tok ~893208->86586 [8% of window] realBound=893208 target=550000 calib=1.00 sess=1.00
+[16:07:40] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:07:46] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=896490 realBound=896490 [no-sample]
+[16:07:46] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1052->43 (drop 1010) tok ~896490->88628 [8% of window] realBound=896490 target=550000 calib=1.00 sess=1.00
+[16:07:46] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:08:01] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=899296 realBound=899296 [no-sample]
+[16:08:01] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1054->43 (drop 1012) tok ~899296->90451 [9% of window] realBound=899296 target=550000 calib=1.00 sess=1.00
+[16:08:01] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:08:04] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=901189 realBound=901189 [no-sample]
+[16:08:04] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1056->43 (drop 1014) tok ~901189->89691 [8% of window] realBound=901189 target=550000 calib=1.00 sess=1.00
+[16:08:04] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:08:16] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=906212 realBound=906212 [no-sample]
+[16:08:16] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1058->43 (drop 1016) tok ~906212->92549 [9% of window] realBound=906212 target=550000 calib=1.00 sess=1.00
+[16:08:16] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:08:27] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=909360 realBound=909360 [no-sample]
+[16:08:27] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1060->43 (drop 1018) tok ~909360->93905 [9% of window] realBound=909360 target=550000 calib=1.00 sess=1.00
+[16:08:27] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:08:35] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=911779 realBound=911779 [no-sample]
+[16:08:35] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1062->43 (drop 1020) tok ~911779->84507 [8% of window] realBound=911779 target=550000 calib=1.00 sess=1.00
+[16:08:35] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:08:41] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=915791 realBound=915791 [no-sample]
+[16:08:41] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1064->43 (drop 1022) tok ~915791->82661 [8% of window] realBound=915791 target=550000 calib=1.00 sess=1.00
+[16:08:41] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:09:04] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=921992 realBound=921992 [no-sample]
+[16:09:04] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1066->43 (drop 1024) tok ~921992->85970 [8% of window] realBound=921992 target=550000 calib=1.00 sess=1.00
+[16:09:04] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:09:12] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=923091 realBound=923091 [no-sample]
+[16:09:12] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1068->43 (drop 1026) tok ~923091->82958 [8% of window] realBound=923091 target=550000 calib=1.00 sess=1.00
+[16:09:12] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:09:14] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=923924 realBound=923924 [no-sample]
+[16:09:14] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1070->43 (drop 1028) tok ~923924->81394 [8% of window] realBound=923924 target=550000 calib=1.00 sess=1.00
+[16:09:14] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:09:33] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=928586 realBound=928586 [no-sample]
+[16:09:33] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1072->43 (drop 1030) tok ~928586->78804 [7% of window] realBound=928586 target=550000 calib=1.00 sess=1.00
+[16:09:33] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:09:48] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=934778 realBound=934778 [no-sample]
+[16:09:48] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1074->43 (drop 1032) tok ~934778->80175 [8% of window] realBound=934778 target=550000 calib=1.00 sess=1.00
+[16:09:48] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:09:52] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=935041 realBound=935041 [no-sample]
+[16:09:52] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1076->43 (drop 1034) tok ~935041->76418 [7% of window] realBound=935041 target=550000 calib=1.00 sess=1.00
+[16:09:52] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:10:10] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=940036 realBound=940036 [no-sample]
+[16:10:10] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1078->43 (drop 1036) tok ~940036->78582 [7% of window] realBound=940036 target=550000 calib=1.00 sess=1.00
+[16:10:10] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:10:23] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=944330 realBound=944330 [no-sample]
+[16:10:23] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1080->43 (drop 1038) tok ~944330->79488 [7% of window] realBound=944330 target=550000 calib=1.00 sess=1.00
+[16:10:23] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:10:27] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=944660 realBound=944660 [no-sample]
+[16:10:27] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1082->43 (drop 1040) tok ~944660->77822 [7% of window] realBound=944660 target=550000 calib=1.00 sess=1.00
+[16:10:27] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:10:36] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=948541 realBound=948541 [no-sample]
+[16:10:36] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1084->43 (drop 1042) tok ~948541->80726 [8% of window] realBound=948541 target=550000 calib=1.00 sess=1.00
+[16:10:36] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:10:48] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=950714 realBound=950714 [no-sample]
+[16:10:48] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1086->43 (drop 1044) tok ~950714->76896 [7% of window] realBound=950714 target=550000 calib=1.00 sess=1.00
+[16:10:48] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:10:53] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=951136 realBound=951136 [no-sample]
+[16:10:53] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1088->43 (drop 1046) tok ~951136->73489 [7% of window] realBound=951136 target=550000 calib=1.00 sess=1.00
+[16:10:53] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:10:58] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=953267 realBound=953267 [no-sample]
+[16:10:58] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1090->43 (drop 1048) tok ~953267->72884 [7% of window] realBound=953267 target=550000 calib=1.00 sess=1.00
+[16:10:58] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:11:02] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=954257 realBound=954257 [no-sample]
+[16:11:02] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1092->43 (drop 1050) tok ~954257->70891 [7% of window] realBound=954257 target=550000 calib=1.00 sess=1.00
+[16:11:02] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:11:06] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=954733 realBound=954733 [no-sample]
+[16:11:06] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1094->43 (drop 1052) tok ~954733->68865 [6% of window] realBound=954733 target=550000 calib=1.00 sess=1.00
+[16:11:06] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:11:09] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=956584 realBound=956584 [no-sample]
+[16:11:09] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1096->43 (drop 1054) tok ~956584->68829 [6% of window] realBound=956584 target=550000 calib=1.00 sess=1.00
+[16:11:09] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:11:19] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=958071 realBound=958071 [no-sample]
+[16:11:19] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1098->43 (drop 1056) tok ~958071->65754 [6% of window] realBound=958071 target=550000 calib=1.00 sess=1.00
+[16:11:19] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:11:23] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=959330 realBound=959330 [no-sample]
+[16:11:23] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1100->43 (drop 1058) tok ~959330->64112 [6% of window] realBound=959330 target=550000 calib=1.00 sess=1.00
+[16:11:23] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:11:26] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=961383 realBound=961383 [no-sample]
+[16:11:26] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1102->43 (drop 1060) tok ~961383->63793 [6% of window] realBound=961383 target=550000 calib=1.00 sess=1.00
+[16:11:26] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:11:34] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=963238 realBound=963238 [no-sample]
+[16:11:34] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1104->43 (drop 1062) tok ~963238->61918 [6% of window] realBound=963238 target=550000 calib=1.00 sess=1.00
+[16:11:34] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:11:38] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=964457 realBound=964457 [no-sample]
+[16:11:38] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1106->43 (drop 1064) tok ~964457->57584 [5% of window] realBound=964457 target=550000 calib=1.00 sess=1.00
+[16:11:38] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:11:41] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=964637 realBound=964637 [no-sample]
+[16:11:41] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1108->43 (drop 1066) tok ~964637->56786 [5% of window] realBound=964637 target=550000 calib=1.00 sess=1.00
+[16:11:41] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:11:47] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=965358 realBound=965358 [no-sample]
+[16:11:47] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1110->43 (drop 1068) tok ~965358->56687 [5% of window] realBound=965358 target=550000 calib=1.00 sess=1.00
+[16:11:47] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:11:52] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=965834 realBound=965834 [no-sample]
+[16:11:52] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1112->43 (drop 1070) tok ~965834->53048 [5% of window] realBound=965834 target=550000 calib=1.00 sess=1.00
+[16:11:52] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:12:01] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=967737 realBound=967737 [no-sample]
+[16:12:01] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1114->43 (drop 1072) tok ~967737->49318 [4% of window] realBound=967737 target=550000 calib=1.00 sess=1.00
+[16:12:01] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:12:09] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=970429 realBound=970429 [no-sample]
+[16:12:09] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1116->43 (drop 1074) tok ~970429->51431 [5% of window] realBound=970429 target=550000 calib=1.00 sess=1.00
+[16:12:09] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:12:22] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=973636 realBound=973636 [no-sample]
+[16:12:22] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1118->43 (drop 1076) tok ~973636->49877 [4% of window] realBound=973636 target=550000 calib=1.00 sess=1.00
+[16:12:22] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:12:29] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=979084 realBound=979084 [no-sample]
+[16:12:29] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1120->43 (drop 1078) tok ~979084->50880 [5% of window] realBound=979084 target=550000 calib=1.00 sess=1.00
+[16:12:29] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:12:39] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=981070 realBound=981070 [no-sample]
+[16:12:39] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1122->43 (drop 1080) tok ~981070->52320 [5% of window] realBound=981070 target=550000 calib=1.00 sess=1.00
+[16:12:39] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:12:49] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=983735 realBound=983735 [no-sample]
+[16:12:49] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1124->43 (drop 1082) tok ~983735->51262 [5% of window] realBound=983735 target=550000 calib=1.00 sess=1.00
+[16:12:49] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:12:58] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=988432 realBound=988432 [no-sample]
+[16:12:58] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1126->43 (drop 1084) tok ~988432->53458 [5% of window] realBound=988432 target=550000 calib=1.00 sess=1.00
+[16:12:58] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:13:07] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=989832 realBound=989832 [no-sample]
+[16:13:07] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1128->43 (drop 1086) tok ~989832->54308 [5% of window] realBound=989832 target=550000 calib=1.00 sess=1.00
+[16:13:07] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:13:11] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=991345 realBound=991345 [no-sample]
+[16:13:11] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1130->43 (drop 1088) tok ~991345->53771 [5% of window] realBound=991345 target=550000 calib=1.00 sess=1.00
+[16:13:11] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:13:23] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=994447 realBound=994447 [no-sample]
+[16:13:23] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1132->43 (drop 1090) tok ~994447->55608 [5% of window] realBound=994447 target=550000 calib=1.00 sess=1.00
+[16:13:23] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:13:32] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=996296 realBound=996296 [no-sample]
+[16:13:32] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1134->43 (drop 1092) tok ~996296->56801 [5% of window] realBound=996296 target=550000 calib=1.00 sess=1.00
+[16:13:32] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:13:38] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=997107 realBound=997107 [no-sample]
+[16:13:38] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1136->43 (drop 1094) tok ~997107->55896 [5% of window] realBound=997107 target=550000 calib=1.00 sess=1.00
+[16:13:38] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:13:47] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=999173 realBound=999173 [no-sample]
+[16:13:47] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1138->43 (drop 1096) tok ~999173->56400 [5% of window] realBound=999173 target=550000 calib=1.00 sess=1.00
+[16:13:47] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:13:56] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1000832 realBound=1000832 [no-sample]
+[16:13:56] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1140->43 (drop 1098) tok ~1000832->56747 [5% of window] realBound=1000832 target=550000 calib=1.00 sess=1.00
+[16:13:56] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:14:00] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1002534 realBound=1002534 [no-sample]
+[16:14:00] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1142->43 (drop 1100) tok ~1002534->56442 [5% of window] realBound=1002534 target=550000 calib=1.00 sess=1.00
+[16:14:00] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:14:03] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1005574 realBound=1005574 [no-sample]
+[16:14:03] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1144->43 (drop 1102) tok ~1005574->57473 [5% of window] realBound=1005574 target=550000 calib=1.00 sess=1.00
+[16:14:03] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:14:08] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1007282 realBound=1007282 [no-sample]
+[16:14:08] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1146->43 (drop 1104) tok ~1007282->57898 [5% of window] realBound=1007282 target=550000 calib=1.00 sess=1.00
+[16:14:08] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:14:14] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1009743 realBound=1009743 [no-sample]
+[16:14:14] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1148->43 (drop 1106) tok ~1009743->59882 [5% of window] realBound=1009743 target=550000 calib=1.00 sess=1.00
+[16:14:14] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:14:26] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1012804 realBound=1012804 [no-sample]
+[16:14:26] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1150->43 (drop 1108) tok ~1012804->61918 [6% of window] realBound=1012804 target=550000 calib=1.00 sess=1.00
+[16:14:26] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:14:32] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1013467 realBound=1013467 [no-sample]
+[16:14:32] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1152->43 (drop 1110) tok ~1013467->62080 [6% of window] realBound=1013467 target=550000 calib=1.00 sess=1.00
+[16:14:32] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:14:35] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1014792 realBound=1014792 [no-sample]
+[16:14:35] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1154->43 (drop 1112) tok ~1014792->61576 [6% of window] realBound=1014792 target=550000 calib=1.00 sess=1.00
+[16:14:35] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:14:49] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1018005 realBound=1018005 [no-sample]
+[16:14:49] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1156->43 (drop 1114) tok ~1018005->62029 [6% of window] realBound=1018005 target=550000 calib=1.00 sess=1.00
+[16:14:49] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:14:52] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1019182 realBound=1019182 [no-sample]
+[16:14:52] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1158->43 (drop 1116) tok ~1019182->60264 [6% of window] realBound=1019182 target=550000 calib=1.00 sess=1.00
+[16:14:52] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:15:10] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1022609 realBound=1022609 [no-sample]
+[16:15:10] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1160->43 (drop 1118) tok ~1022609->58508 [5% of window] realBound=1022609 target=550000 calib=1.00 sess=1.00
+[16:15:10] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:15:13] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1024522 realBound=1024522 [no-sample]
+[16:15:13] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1162->43 (drop 1120) tok ~1024522->58443 [5% of window] realBound=1024522 target=550000 calib=1.00 sess=1.00
+[16:15:13] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:15:14] RACCOON-REFRESH: Raccoon / 小浣熊 failed: 保存的续期凭据其实是 access_token（登录时抓错了），需重新登录一次
+[16:15:14] RACCOON-REFRESH: Raccoon / 小浣熊 refreshAll 完成: ok=0 fail=1/2
+[16:15:16] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1025170 realBound=1025170 [no-sample]
+[16:15:16] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1164->43 (drop 1122) tok ~1025170->56690 [5% of window] realBound=1025170 target=550000 calib=1.00 sess=1.00
+[16:15:16] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:15:19] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1029424 realBound=1029424 [no-sample]
+[16:15:19] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1166->43 (drop 1124) tok ~1029424->56304 [5% of window] realBound=1029424 target=550000 calib=1.00 sess=1.00
+[16:15:19] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:15:27] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1030871 realBound=1030871 [no-sample]
+[16:15:27] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1168->43 (drop 1126) tok ~1030871->56346 [5% of window] realBound=1030871 target=550000 calib=1.00 sess=1.00
+[16:15:27] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:15:34] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1032446 realBound=1032446 [no-sample]
+[16:15:34] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1170->43 (drop 1128) tok ~1032446->56399 [5% of window] realBound=1032446 target=550000 calib=1.00 sess=1.00
+[16:15:34] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:15:43] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1033594 realBound=1033594 [no-sample]
+[16:15:43] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1172->43 (drop 1130) tok ~1033594->54700 [5% of window] realBound=1033594 target=550000 calib=1.00 sess=1.00
+[16:15:43] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:15:51] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1035449 realBound=1035449 [no-sample]
+[16:15:51] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1174->43 (drop 1132) tok ~1035449->54705 [5% of window] realBound=1035449 target=550000 calib=1.00 sess=1.00
+[16:15:51] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:15:55] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1036010 realBound=1036010 [no-sample]
+[16:15:55] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1176->43 (drop 1134) tok ~1036010->54489 [5% of window] realBound=1036010 target=550000 calib=1.00 sess=1.00
+[16:15:55] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:16:06] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1037743 realBound=1037743 [no-sample]
+[16:16:06] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1178->43 (drop 1136) tok ~1037743->54198 [5% of window] realBound=1037743 target=550000 calib=1.00 sess=1.00
+[16:16:06] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:16:10] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1040555 realBound=1040555 [no-sample]
+[16:16:10] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1180->43 (drop 1138) tok ~1040555->55200 [5% of window] realBound=1040555 target=550000 calib=1.00 sess=1.00
+[16:16:10] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:16:15] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1041728 realBound=1041728 [no-sample]
+[16:16:15] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1182->43 (drop 1140) tok ~1041728->54740 [5% of window] realBound=1041728 target=550000 calib=1.00 sess=1.00
+[16:16:15] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:16:20] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1042282 realBound=1042282 [no-sample]
+[16:16:20] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1184->43 (drop 1142) tok ~1042282->52578 [5% of window] realBound=1042282 target=550000 calib=1.00 sess=1.00
+[16:16:20] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:16:25] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1045004 realBound=1045004 [no-sample]
+[16:16:25] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1186->43 (drop 1144) tok ~1045004->53462 [5% of window] realBound=1045004 target=550000 calib=1.00 sess=1.00
+[16:16:25] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:16:30] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1047032 realBound=1047032 [no-sample]
+[16:16:30] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1188->43 (drop 1146) tok ~1047032->53084 [5% of window] realBound=1047032 target=550000 calib=1.00 sess=1.00
+[16:16:30] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:16:37] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1050796 realBound=1050796 [no-sample]
+[16:16:37] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1190->43 (drop 1148) tok ~1050796->53695 [5% of window] realBound=1050796 target=550000 calib=1.00 sess=1.00
+[16:16:37] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:16:44] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1054320 realBound=1054320 [no-sample]
+[16:16:44] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1192->43 (drop 1150) tok ~1054320->56184 [5% of window] realBound=1054320 target=550000 calib=1.00 sess=1.00
+[16:16:44] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:16:54] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1056445 realBound=1056445 [no-sample]
+[16:16:54] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1194->43 (drop 1152) tok ~1056445->56879 [5% of window] realBound=1056445 target=550000 calib=1.00 sess=1.00
+[16:16:54] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:16:57] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1059297 realBound=1059297 [no-sample]
+[16:16:57] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1196->43 (drop 1154) tok ~1059297->56566 [5% of window] realBound=1059297 target=550000 calib=1.00 sess=1.00
+[16:16:57] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:17:04] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1064706 realBound=1064706 [no-sample]
+[16:17:04] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1198->43 (drop 1156) tok ~1064706->60246 [6% of window] realBound=1064706 target=550000 calib=1.00 sess=1.00
+[16:17:04] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:17:14] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1068525 realBound=1068525 [no-sample]
+[16:17:14] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1200->43 (drop 1158) tok ~1068525->60586 [6% of window] realBound=1068525 target=550000 calib=1.00 sess=1.00
+[16:17:14] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:17:18] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1070825 realBound=1070825 [no-sample]
+[16:17:18] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1202->43 (drop 1160) tok ~1070825->60923 [6% of window] realBound=1070825 target=550000 calib=1.00 sess=1.00
+[16:17:18] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:17:27] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1071776 realBound=1071776 [no-sample]
+[16:17:27] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1204->43 (drop 1162) tok ~1071776->61186 [6% of window] realBound=1071776 target=550000 calib=1.00 sess=1.00
+[16:17:27] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:17:32] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1072137 realBound=1072137 [no-sample]
+[16:17:32] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1206->43 (drop 1164) tok ~1072137->57801 [5% of window] realBound=1072137 target=550000 calib=1.00 sess=1.00
+[16:17:32] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:17:36] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1075307 realBound=1075307 [no-sample]
+[16:17:36] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1208->43 (drop 1166) tok ~1075307->59299 [5% of window] realBound=1075307 target=550000 calib=1.00 sess=1.00
+[16:17:36] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:17:46] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1079034 realBound=1079034 [no-sample]
+[16:17:46] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1210->43 (drop 1168) tok ~1079034->61170 [6% of window] realBound=1079034 target=550000 calib=1.00 sess=1.00
+[16:17:46] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:17:58] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1081084 realBound=1081084 [no-sample]
+[16:17:58] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1212->43 (drop 1170) tok ~1081084->61954 [6% of window] realBound=1081084 target=550000 calib=1.00 sess=1.00
+[16:17:58] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:18:10] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1083077 realBound=1083077 [no-sample]
+[16:18:10] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1214->43 (drop 1172) tok ~1083077->62075 [6% of window] realBound=1083077 target=550000 calib=1.00 sess=1.00
+[16:18:10] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:18:20] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1085084 realBound=1085084 [no-sample]
+[16:18:20] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1216->43 (drop 1174) tok ~1085084->63332 [6% of window] realBound=1085084 target=550000 calib=1.00 sess=1.00
+[16:18:20] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:18:29] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1087039 realBound=1087039 [no-sample]
+[16:18:29] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1218->43 (drop 1176) tok ~1087039->63525 [6% of window] realBound=1087039 target=550000 calib=1.00 sess=1.00
+[16:18:29] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:18:40] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1089087 realBound=1089087 [no-sample]
+[16:18:40] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1220->43 (drop 1178) tok ~1089087->62862 [6% of window] realBound=1089087 target=550000 calib=1.00 sess=1.00
+[16:18:40] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:18:46] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1090075 realBound=1090075 [no-sample]
+[16:18:46] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1222->43 (drop 1180) tok ~1090075->62701 [6% of window] realBound=1090075 target=550000 calib=1.00 sess=1.00
+[16:18:46] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:18:50] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1091894 realBound=1091894 [no-sample]
+[16:18:50] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1224->43 (drop 1182) tok ~1091894->63800 [6% of window] realBound=1091894 target=550000 calib=1.00 sess=1.00
+[16:18:50] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:18:59] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1093146 realBound=1093146 [no-sample]
+[16:18:59] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1226->43 (drop 1184) tok ~1093146->62520 [6% of window] realBound=1093146 target=550000 calib=1.00 sess=1.00
+[16:18:59] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:19:04] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1093525 realBound=1093525 [no-sample]
+[16:19:04] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1228->43 (drop 1186) tok ~1093525->61087 [6% of window] realBound=1093525 target=550000 calib=1.00 sess=1.00
+[16:19:04] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:19:07] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1094089 realBound=1094089 [no-sample]
+[16:19:07] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1230->43 (drop 1188) tok ~1094089->58304 [5% of window] realBound=1094089 target=550000 calib=1.00 sess=1.00
+[16:19:07] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:19:12] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1095700 realBound=1095700 [no-sample]
+[16:19:12] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1232->43 (drop 1190) tok ~1095700->56641 [5% of window] realBound=1095700 target=550000 calib=1.00 sess=1.00
+[16:19:12] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:19:28] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1102510 realBound=1102510 [no-sample]
+[16:19:28] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1234->43 (drop 1192) tok ~1102510->60716 [6% of window] realBound=1102510 target=550000 calib=1.00 sess=1.00
+[16:19:28] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:19:37] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1104270 realBound=1104270 [no-sample]
+[16:19:37] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1236->43 (drop 1194) tok ~1104270->59766 [5% of window] realBound=1104270 target=550000 calib=1.00 sess=1.00
+[16:19:37] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:19:42] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1107853 realBound=1107853 [no-sample]
+[16:19:42] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1238->43 (drop 1196) tok ~1107853->58178 [5% of window] realBound=1107853 target=550000 calib=1.00 sess=1.00
+[16:19:42] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:19:45] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1110631 realBound=1110631 [no-sample]
+[16:19:45] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1240->43 (drop 1198) tok ~1110631->57273 [5% of window] realBound=1110631 target=550000 calib=1.00 sess=1.00
+[16:19:45] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:19:49] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1113927 realBound=1113927 [no-sample]
+[16:19:49] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1242->43 (drop 1200) tok ~1113927->58139 [5% of window] realBound=1113927 target=550000 calib=1.00 sess=1.00
+[16:19:49] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:20:02] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1121912 realBound=1121912 [no-sample]
+[16:20:02] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1244->43 (drop 1202) tok ~1121912->64256 [6% of window] realBound=1121912 target=550000 calib=1.00 sess=1.00
+[16:20:02] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:20:07] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1122180 realBound=1122180 [no-sample]
+[16:20:07] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1246->43 (drop 1204) tok ~1122180->64174 [6% of window] realBound=1122180 target=550000 calib=1.00 sess=1.00
+[16:20:07] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:20:22] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1126305 realBound=1126305 [no-sample]
+[16:20:22] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1248->43 (drop 1206) tok ~1126305->65004 [6% of window] realBound=1126305 target=550000 calib=1.00 sess=1.00
+[16:20:22] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:20:38] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1129953 realBound=1129953 [no-sample]
+[16:20:38] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1250->43 (drop 1208) tok ~1129953->64936 [6% of window] realBound=1129953 target=550000 calib=1.00 sess=1.00
+[16:20:38] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:20:46] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1132738 realBound=1132738 [no-sample]
+[16:20:46] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1252->43 (drop 1210) tok ~1132738->65576 [6% of window] realBound=1132738 target=550000 calib=1.00 sess=1.00
+[16:20:46] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:20:56] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1135330 realBound=1135330 [no-sample]
+[16:20:56] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1254->43 (drop 1212) tok ~1135330->66097 [6% of window] realBound=1135330 target=550000 calib=1.00 sess=1.00
+[16:20:56] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:21:06] CTX: usage model=deepseek-v4-flash win=1000000 trigger=300000 est=1140409 realBound=1140409 [no-sample]
+[16:21:06] CTX: govern model=deepseek-v4-flash win=1000000 trig=300000 msgs 1256->43 (drop 1214) tok ~1140409->68768 [6% of window] realBound=1140409 target=550000 calib=1.00 sess=1.00
+[16:21:06] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:21:09] SSE: stream error: Broken pipe
+[16:22:15] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:22:19] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:22:20] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:22:22] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:22:25] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:22:31] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:22:34] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:22:37] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:22:40] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:22:44] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:22:51] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:23:04] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:23:10] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:23:19] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:23:30] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:23:32] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:23:35] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:23:40] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:24:08] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:24:10] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:24:24] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:24:26] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:24:43] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:25:03] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:25:05] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:25:18] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:25:21] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:25:23] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:25:34] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy
+[16:25:36] CHAT: [Buddy / CodeBuddy] model=deepseek-v4-flash key=key-5 allowed=buddy

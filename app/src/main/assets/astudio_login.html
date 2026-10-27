@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AStudio 登录</title>
+<script src="https://static.geetest.com/static/tools/gt.js"></script>
+<style>
+  :root { color-scheme: light; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; min-height: 100vh; display: flex; align-items: center; justify-content: center;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    background: #f4f5f8; color: #1d2129;
+  }
+  .card {
+    background: #fff; border-radius: 12px; padding: 24px; box-shadow: 0 4px 20px rgba(0,0,0,0.06);
+    width: 360px; max-width: 90vw; text-align: center;
+  }
+  h1 { font-size: 18px; margin: 0 0 16px; font-weight: 600; color: #1d2129; }
+  .tabs {
+    display: flex; gap: 4px; background: #f2f3f5; border-radius: 8px; padding: 4px; margin-bottom: 20px;
+  }
+  .tab-btn {
+    flex: 1; padding: 8px 4px; font-size: 13px; border: 0; border-radius: 6px;
+    background: transparent; color: #4e5969; cursor: pointer; transition: all 0.2s;
+  }
+  .tab-btn.active {
+    background: #fff; color: #165dff; font-weight: 600; box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+  }
+  .pane { display: none; text-align: left; }
+  .pane.active { display: block; }
+  .login-guide-tip { font-size: 12px; color: #86909c; text-align: center; margin-top: 10px; line-height: 1.4; }
+  .form-group { margin-bottom: 14px; }
+  label { display: block; font-size: 12px; color: #4e5969; margin-bottom: 6px; }
+  input {
+    width: 100%; height: 38px; padding: 0 12px; font-size: 14px; border: 1px solid #d9dde3;
+    border-radius: 6px; outline: none; transition: border-color 0.2s;
+  }
+  input:focus { border-color: #165dff; }
+  .btn-primary {
+    width: 100%; height: 38px; font-size: 14px; font-weight: 500; border: 0; border-radius: 6px;
+    background: #165dff; color: #fff; cursor: pointer; transition: background 0.2s; margin-top: 8px;
+  }
+  .btn-primary:hover { background: #0e42d2; }
+  .btn-primary:disabled { background: #c9cdd4; cursor: not-allowed; }
+  .row-input { display: flex; gap: 8px; }
+  .row-input input { flex: 1; }
+  .btn-secondary {
+    white-space: nowrap; padding: 0 12px; height: 38px; font-size: 13px; border: 1px solid #c9cdd4;
+    border-radius: 6px; background: #f2f3f5; color: #4e5969; cursor: pointer;
+  }
+  .btn-secondary:disabled { color: #86909c; cursor: not-allowed; }
+  .captcha-box {
+    min-height: 40px; margin-bottom: 12px; display: flex; align-items: center; justify-content: center;
+    background: #f7f8fa; border: 1px dashed #c9cdd4; border-radius: 6px; font-size: 12px; color: #86909c;
+    padding: 6px 10px;
+  }
+  .captcha-ready { border-color: #00b42a; background: #e8ffea; color: #00b42a; font-weight: 500; }
+  .qr-box {
+    width: 200px; height: 200px; margin: 10px auto; border: 1px solid #e5e6eb; border-radius: 8px;
+    display: flex; align-items: center; justify-content: center; overflow: hidden; background: #fafafa;
+  }
+  .qr-box img { width: 100%; height: 100%; object-fit: contain; }
+  .wechat-tip { font-size: 12px; color: #86909c; text-align: center; margin: 8px 0 0; }
+  .status-bar {
+    margin-top: 14px; min-height: 20px; font-size: 13px; text-align: center; border-radius: 4px; padding: 4px;
+  }
+  .status-bar.ok { color: #00b42a; background: #e8ffea; font-weight: 500; }
+  .status-bar.err { color: #f53f3f; background: #ffece8; }
+</style>
+</head>
+<body>
+  <div class="card">
+    <h1>登录 AStudio</h1>
+
+    <div class="tabs">
+      <button class="tab-btn tab-sms active" id="tabSms" data-tab="sms" type="button">手机验证码</button>
+      <button class="tab-btn tab-password" id="tabPassword" data-tab="password" type="button">账号密码</button>
+      <button class="tab-btn tab-wechat" id="tabWechat" data-tab="wechat" type="button">微信扫码</button>
+    </div>
+
+    <!-- Tab 1: 手机验证码 -->
+    <div class="pane active" id="pane-sms">
+      <div class="form-group">
+        <label for="smsMobile">手机号</label>
+        <input id="smsMobile" class="sms-mobile" type="tel" placeholder="请输入中国大陆手机号" maxlength="11" />
+      </div>
+      <div class="form-group">
+        <label>人机验证</label>
+        <div class="captcha-box" id="smsCaptchaBox">
+          <button class="btn-secondary" id="btnTriggerSmsCaptcha" type="button">完成安全验证</button>
+        </div>
+      </div>
+      <div class="form-group">
+        <label for="smsCode">验证码</label>
+        <div class="row-input">
+          <input id="smsCode" class="sms-code" type="text" placeholder="6 位验证码" maxlength="6" />
+          <button class="btn-secondary" id="btnSendSms" type="button">获取验证码</button>
+        </div>
+      </div>
+      <button class="btn-primary" id="btnLoginSms" type="button">登 录</button>
+      <div class="login-guide-tip">未注册手机号验证通过后将自动完成注册开户</div>
+    </div>
+
+    <!-- Tab 2: 账号密码 -->
+    <div class="pane" id="pane-password">
+      <div class="form-group">
+        <label for="pwdAccount">账号 / 手机号</label>
+        <input id="pwdAccount" class="pwd-account" type="text" placeholder="请输入账号或手机号" />
+      </div>
+      <div class="form-group">
+        <label for="pwdPassword">密码</label>
+        <input id="pwdPassword" class="pwd-password" type="password" placeholder="请输入登录密码" />
+      </div>
+      <div class="form-group">
+        <label>人机验证</label>
+        <div class="captcha-box" id="pwdCaptchaBox">
+          <button class="btn-secondary" id="btnTriggerPwdCaptcha" type="button">完成安全验证</button>
+        </div>
+      </div>
+      <button class="btn-primary" id="btnLoginPwd" type="button">登 录</button>
+      <div class="login-guide-tip">未注册账号请使用手机验证码快捷登录开户</div>
+    </div>
+
+    <!-- Tab 3: 微信扫码 -->
+    <div class="pane" id="pane-wechat">
+      <div class="qr-box" id="wechatQrContainer">
+        <span>正在加载二维码...</span>
+      </div>
+      <p class="wechat-tip">请打开微信扫描上方二维码进行登录</p>
+      <div style="text-align: center; margin-top: 8px;">
+        <button class="btn-secondary" id="btnRefreshQr" type="button" style="font-size: 12px; height: 30px;">刷新二维码</button>
+      </div>
+    </div>
+
+    <div class="status-bar" id="statusBar"></div>
+    <div style="text-align: center; margin-top: 8px;">
+      <a id="diagLink" href="javascript:void(0)" style="font-size: 12px; color: #86909C; text-decoration: underline;">诊断信息</a>
+    </div>
+  </div>
+
+  <script>
+    (function() {
+      var currentTab = 'sms';
+      var smsCaptchaResult = null;
+      var pwdCaptchaResult = null;
+      var pollTimer = null;
+      var currentFd = '';
+
+      var statusBar = document.getElementById('statusBar');
+      function showStatus(msg, type) {
+        statusBar.textContent = msg;
+        statusBar.className = 'status-bar ' + (type || '');
+      }
+
+      document.getElementById('diagLink').addEventListener('click', function() {
+        fetch('/astudio/diag').then(function(r) { return r.json(); }).then(function(j) {
+          alert(j.diag || '（暂无诊断信息）');
+        }).catch(function(e) { alert('诊断获取失败：' + e); });
+      });
+
+      // Tab 切换
+      var tabBtns = document.querySelectorAll('.tab-btn');
+      var panes = document.querySelectorAll('.pane');
+      tabBtns.forEach(function(btn) {
+        btn.addEventListener('click', function() {
+          var target = btn.getAttribute('data-tab');
+          currentTab = target;
+          tabBtns.forEach(function(b) { b.classList.remove('active'); });
+          panes.forEach(function(p) { p.classList.remove('active'); });
+          btn.classList.add('active');
+          document.getElementById('pane-' + target).classList.add('active');
+          showStatus('', '');
+
+          if (target === 'wechat') {
+            loadWechatQr();
+          } else {
+            stopWechatPoll();
+          }
+        });
+      });
+
+      // 动态载入官方 gt.js SDK
+      var gtScriptPromise = null;
+      function ensureGeetestSdk() {
+        if (typeof window.initGeetest === 'function') {
+          return Promise.resolve();
+        }
+        if (gtScriptPromise) {
+          return gtScriptPromise;
+        }
+        gtScriptPromise = new Promise(function(resolve, reject) {
+          var script = document.createElement('script');
+          script.src = 'https://static.geetest.com/static/tools/gt.js';
+          script.async = true;
+          script.dataset.astronGeetest = 'true';
+          script.addEventListener('load', function() { resolve(); }, { once: true });
+          script.addEventListener('error', function() {
+            script.remove();
+            gtScriptPromise = null;
+            reject(new Error('安全验证组件加载失败，请检查网络后重试。'));
+          }, { once: true });
+          document.head.appendChild(script);
+        });
+        return gtScriptPromise;
+      }
+
+      // 拉起极验滑块弹窗并捕获 validate / seccode 回调
+      async function triggerGeetestCaptcha() {
+        await ensureGeetestSdk();
+        if (typeof window.initGeetest !== 'function') {
+          throw new Error('安全验证组件不可用，请稍后重试。');
+        }
+        var res = await fetch('/astudio/gee-captcha');
+        var json = await res.json();
+        if (!json.ok || !json.data) throw new Error(json.message || '获取验证码配置失败');
+        var config = json.data;
+
+        return new Promise(function(resolve, reject) {
+          var finished = false;
+          var captchaInstance = null;
+          function finish(result) {
+            if (!finished) {
+              finished = true;
+              window.clearTimeout(timer);
+              try {
+                if (captchaInstance && typeof captchaInstance.destroy === 'function') {
+                  captchaInstance.destroy();
+                }
+              } catch (_) {}
+              if ('payload' in result) {
+                resolve(result.payload);
+              } else {
+                reject(result.error);
+              }
+            }
+          }
+          var timer = window.setTimeout(function() {
+            finish({ error: new Error('安全验证超时，请重试。') });
+          }, 30000);
+
+          try {
+            window.initGeetest(Object.assign({}, config, {
+              https: true,
+              offline: !config.success,
+              product: 'bind',
+              width: '100%'
+            }), function(captchaObj) {
+              captchaInstance = captchaObj;
+              captchaObj.onReady(function() {
+                try {
+                  captchaObj.verify();
+                } catch (verifyErr) {
+                  finish({ error: new Error('安全验证启动失败，请重试。') });
+                }
+              });
+              captchaObj.onError(function() {
+                finish({ error: new Error('安全验证网络异常，请稍后重试。') });
+              });
+              if (typeof captchaObj.onClose === 'function') {
+                captchaObj.onClose(function() {
+                  finish({ error: new Error('安全验证已取消。') });
+                });
+              }
+              captchaObj.onSuccess(function() {
+                var val = captchaObj.getValidate();
+                if (!val || !val.geetest_challenge || !val.geetest_validate || !val.geetest_seccode) {
+                  finish({ error: new Error('安全验证结果无效，请重试。') });
+                  return;
+                }
+                finish({
+                  payload: {
+                    geetestChallenge: val.geetest_challenge,
+                    geetestValidate: val.geetest_validate,
+                    geetestSeccode: val.geetest_seccode
+                  }
+                });
+              });
+            });
+          } catch (initErr) {
+            finish({ error: initErr instanceof Error ? initErr : new Error(String(initErr)) });
+          }
+        });
+      }
+
+      // 极验人机验证触发绑定
+      function setupCaptcha(triggerBtn, boxElem, onVerified) {
+        triggerBtn.addEventListener('click', async function() {
+          triggerBtn.disabled = true;
+          triggerBtn.textContent = '正在拉起验证...';
+          try {
+            var captcha = await triggerGeetestCaptcha();
+            onVerified(captcha);
+            boxElem.innerHTML = '<span class="captcha-ready">✓ 已完成安全验证</span>';
+          } catch (e) {
+            triggerBtn.disabled = false;
+            triggerBtn.textContent = '验证失败，重试';
+            showStatus(e.message || '安全验证失败', 'err');
+          }
+        });
+      }
+
+      setupCaptcha(document.getElementById('btnTriggerSmsCaptcha'), document.getElementById('smsCaptchaBox'), function(res) {
+        smsCaptchaResult = res;
+      });
+      setupCaptcha(document.getElementById('btnTriggerPwdCaptcha'), document.getElementById('pwdCaptchaBox'), function(res) {
+        pwdCaptchaResult = res;
+      });
+
+      // 发送短信验证码
+      var btnSendSms = document.getElementById('btnSendSms');
+      btnSendSms.addEventListener('click', async function() {
+        var mobile = document.getElementById('smsMobile').value.trim();
+        if (!mobile) return showStatus('请输入手机号', 'err');
+        if (!smsCaptchaResult) return showStatus('请先完成人机安全验证', 'err');
+
+        btnSendSms.disabled = true;
+        showStatus('正在发送验证码...', '');
+        try {
+          var res = await fetch('/astudio/sms/send', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+              mobile: mobile,
+              geetestChallenge: smsCaptchaResult.geetestChallenge,
+              geetestValidate: smsCaptchaResult.geetestValidate,
+              geetestSeccode: smsCaptchaResult.geetestSeccode
+            })
+          });
+          var data = await res.json();
+          if (!data.ok) throw new Error(data.message || '发送失败');
+          showStatus(data.message || '验证码已发送', 'ok');
+          var sec = 60;
+          var t = setInterval(function() {
+            sec--;
+            if (sec <= 0) {
+              clearInterval(t);
+              btnSendSms.disabled = false;
+              btnSendSms.textContent = '获取验证码';
+            } else {
+              btnSendSms.textContent = sec + 's';
+            }
+          }, 1000);
+        } catch (e) {
+          btnSendSms.disabled = false;
+          showStatus(e.message, 'err');
+        }
+      });
+
+      // 手机号登录
+      document.getElementById('btnLoginSms').addEventListener('click', async function() {
+        var mobile = document.getElementById('smsMobile').value.trim();
+        var code = document.getElementById('smsCode').value.trim();
+        if (!mobile) return showStatus('请输入手机号', 'err');
+        if (!code) return showStatus('请输入短信验证码', 'err');
+
+        showStatus('正在登录...', '');
+        try {
+          var res = await fetch('/astudio/sms/login', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ mobile: mobile, verifyCode: code })
+          });
+          var data = await res.json();
+          if (!data.ok) throw new Error(data.message || '登录失败');
+          showStatus('登录成功！凭据已同步，请返回 IDE', 'ok');
+        } catch (e) {
+          showStatus(e.message, 'err');
+        }
+      });
+
+      // 密码登录
+      document.getElementById('btnLoginPwd').addEventListener('click', async function() {
+        var account = document.getElementById('pwdAccount').value.trim();
+        var pwd = document.getElementById('pwdPassword').value;
+        if (!account) return showStatus('请输入账号或手机号', 'err');
+        if (!pwd) return showStatus('请输入密码', 'err');
+        if (!pwdCaptchaResult) return showStatus('请先完成人机安全验证', 'err');
+
+        showStatus('正在登录...', '');
+        try {
+          var res = await fetch('/astudio/password/login', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+              accountName: account,
+              accountPwd: pwd,
+              geetestChallenge: pwdCaptchaResult.geetestChallenge,
+              geetestValidate: pwdCaptchaResult.geetestValidate,
+              geetestSeccode: pwdCaptchaResult.geetestSeccode
+            })
+          });
+          var data = await res.json();
+          if (!data.ok) throw new Error(data.message || '登录失败');
+          showStatus('登录成功！凭据已同步，请返回 IDE', 'ok');
+        } catch (e) {
+          showStatus(e.message, 'err');
+        }
+      });
+
+      // 微信扫码
+      async function loadWechatQr() {
+        stopWechatPoll();
+        var box = document.getElementById('wechatQrContainer');
+        box.innerHTML = '<span>正在加载二维码...</span>';
+        try {
+          var res = await fetch('/astudio/wechat/qrcode');
+          var data = await res.json();
+          if (!data.ok || !data.qrUrl) throw new Error(data.message || '获取二维码失败');
+          currentFd = data.fd;
+          box.innerHTML = '<img src="' + data.qrUrl + '" alt="微信二维码" />';
+          startWechatPoll();
+        } catch (e) {
+          box.innerHTML = '<span style="color:#f53f3f;font-size:12px;">加载失败，请点击刷新</span>';
+          showStatus(e.message, 'err');
+        }
+      }
+
+      function startWechatPoll() {
+        stopWechatPoll();
+        pollTimer = setInterval(async function() {
+          try {
+            var res = await fetch('/astudio/poll');
+            var data = await res.json();
+            if (data.status === 'success') {
+              stopWechatPoll();
+              showStatus('微信扫码登录成功！凭据已同步，请返回 IDE', 'ok');
+            } else if (data.status === 'error' || data.status === 'unbound') {
+              stopWechatPoll();
+              showStatus(data.message || '微信扫码登录失效，请刷新重试', 'err');
+            }
+          } catch (e) {}
+        }, 2000);
+      }
+
+      function stopWechatPoll() {
+        if (pollTimer) { clearInterval(pollTimer); pollTimer = null; }
+      }
+
+      document.getElementById('btnRefreshQr').addEventListener('click', loadWechatQr);
+    })();
+  </script>
+</body>
+</html>

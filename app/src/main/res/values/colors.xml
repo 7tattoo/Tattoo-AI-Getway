@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主色改为蓝色系（对齐参考图） -->
+    <color name="brand">#2E7DF7</color>
+    <color name="brand_dark">#1B5FC4</color>
+    <color name="brand_light">#E8F1FF</color>
+    <color name="hero_start">#3D8BFD</color>
+    <color name="hero_end">#5AA6FF</color>
+
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_dark">#1A1B26</color>
+    <color name="page_bg">#F2F4F8</color>
+    <color name="text_primary">#16181D</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_tertiary">#9AA1AC</color>
+    <color name="divider">#ECEEF3</color>
+
+    <color name="success">#16A34A</color>
+    <color name="danger">#DC2626</color>
+    <color name="warn">#F59E0B</color>
+
+    <color name="chip">#EFF1F5</color>
+    <color name="chip_dark">#2A2B3D</color>
+</resources>
